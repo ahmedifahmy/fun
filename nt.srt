@@ -1,0 +1,6911 @@
+1
+00:01:16,193 --> 00:01:18,093
+He's in the other room.
+
+2
+00:01:26,036 --> 00:01:28,698
+- Are you Thomas Gates?
+- Yes.
+
+3
+00:01:29,740 --> 00:01:32,573
+We got something
+that we'd like you to take a look at.
+
+4
+00:01:32,910 --> 00:01:35,936
+I hear you're quite good
+with puzzles and riddles.
+
+5
+00:01:36,547 --> 00:01:40,813
+- It's a coded message.
+- It's a Playfair cipher.
+
+6
+00:01:42,052 --> 00:01:44,816
+- Playfair cipher?
+- Can you decode it?
+
+7
+00:01:44,888 --> 00:01:47,379
+Cipher's impossible to decode
+without the key.
+
+8
+00:01:47,457 --> 00:01:51,621
+- What do you mean by "a key"?
+- A keyword or phrase.
+
+9
+00:01:51,695 --> 00:01:55,062
+I believe what you need is right there.
+
+10
+00:01:55,132 --> 00:01:57,123
+It'll take some time.
+
+11
+00:01:59,169 --> 00:02:03,196
+Go on. I'll take your diary.
+I'll meet up with you later.
+
+12
+00:02:07,578 --> 00:02:10,308
+- Whoa.
+
+13
+00:02:25,662 --> 00:02:28,893
+...calculate the distance
+and you're sure to hit the mark
+
+14
+00:02:28,966 --> 00:02:31,230
+in about most things
+as well as shootin'.
+
+15
+00:02:33,670 --> 00:02:38,107
+...ready to pour out all over you
+like apple sass over roast pork.
+
+16
+00:02:43,447 --> 00:02:46,416
+I'll take care not to
+give up my hold on poor De Boots
+
+17
+00:02:46,583 --> 00:02:49,051
+till I am quite sure of the American.
+
+18
+00:02:49,119 --> 00:02:53,886
+- Ah, that's my own girl.
+
+19
+00:02:53,957 --> 00:02:55,857
+Augusta, dear, to your room.
+
+20
+00:02:59,463 --> 00:03:04,298
+...to turn you inside out, old
+gal, you sockdologizing old man-trap.
+
+21
+00:03:12,676 --> 00:03:15,975
+Sic semper tyrannis!
+
+22
+00:03:32,462 --> 00:03:34,157
+Temples.
+
+23
+00:03:35,832 --> 00:03:37,026
+Gold.
+
+24
+00:03:37,200 --> 00:03:40,567
+Cibola? This is a treasure map.
+
+25
+00:03:42,372 --> 00:03:46,399
+KGC? You're Knights of the
+Golden Circle. You're a traitor.
+
+26
+00:03:46,476 --> 00:03:48,501
+You're all traitors.
+
+27
+00:03:50,447 --> 00:03:54,281
+- President Lincoln's been shot!
+- Everybody, out! All of you!
+
+28
+00:03:54,351 --> 00:03:56,285
+Killer's on the loose!
+
+29
+00:03:58,789 --> 00:04:02,782
+I'd much appreciate it if you'd finish
+deciphering that code now.
+
+30
+00:04:08,432 --> 00:04:10,730
+- Dad!
+- The war is over.
+
+31
+00:04:12,869 --> 00:04:14,097
+No!
+
+32
+00:04:18,208 --> 00:04:20,972
+- No!
+- No!
+
+33
+00:04:26,316 --> 00:04:28,045
+You're wrong about that.
+
+34
+00:04:29,453 --> 00:04:31,751
+The war has only just begun!
+
+35
+00:04:37,027 --> 00:04:39,928
+Charles.
+The debt that all men... men pay.
+
+36
+00:04:39,996 --> 00:04:42,794
+The debt that all men p...
+
+37
+00:04:44,634 --> 00:04:46,158
+Dad! No, please!
+
+38
+00:04:51,842 --> 00:04:54,504
+Come back. It's not fair.
+
+39
+00:04:55,579 --> 00:04:57,774
+Help! Somebody help, please!
+
+40
+00:04:59,783 --> 00:05:01,273
+So recapping:
+
+41
+00:05:01,351 --> 00:05:05,378
+The Knights of the Golden Circle
+was a Southern extremist group,
+
+42
+00:05:05,455 --> 00:05:08,583
+operating in the north
+to subvert Union forces.
+
+43
+00:05:08,658 --> 00:05:13,220
+Had Thomas not burned the legendary
+missing pages from the Booth diary,
+
+44
+00:05:13,296 --> 00:05:16,231
+the killers may have found
+a vast treasure of gold,
+
+45
+00:05:16,299 --> 00:05:19,234
+and the Union may well have
+lost the Civil War.
+
+46
+00:05:19,302 --> 00:05:21,668
+- Thank you.
+
+47
+00:05:24,107 --> 00:05:26,905
+I'd like
+to thank Ben and Patrick Gates.
+
+48
+00:05:26,977 --> 00:05:27,966
+Thank you.
+
+49
+00:05:29,546 --> 00:05:34,313
+And say what a wonderful addition Thomas
+Gates is to our civilian heroes exhibit.
+
+50
+00:05:34,384 --> 00:05:35,373
+Thank you.
+
+51
+00:05:37,053 --> 00:05:39,851
+Thank you, Dr. Nichols.
+I only wish my grandfather
+
+52
+00:05:39,923 --> 00:05:42,153
+had been here to see this wonderful day.
+
+53
+00:05:42,225 --> 00:05:44,750
+Excuse me.
+I have a question I'd like to ask.
+
+54
+00:05:44,828 --> 00:05:47,626
+What do you think happened
+to that Booth diary page
+
+55
+00:05:47,697 --> 00:05:50,598
+- that was pulled out of the fire?
+- We may never know.
+
+56
+00:05:50,667 --> 00:05:52,100
+Perhaps.
+
+57
+00:05:52,803 --> 00:05:55,829
+- Perhaps not.
+
+58
+00:05:55,906 --> 00:05:59,672
+You see, I have one of those
+great-great-granddaddies, like you,
+
+59
+00:05:59,776 --> 00:06:03,542
+way up in my family tree,
+name of Silas Wilkinson.
+
+60
+00:06:04,080 --> 00:06:07,538
+He used to tell a story
+about the night Lincoln was shot.
+
+61
+00:06:07,884 --> 00:06:09,579
+As Silas tells it,
+
+62
+00:06:09,653 --> 00:06:13,885
+Booth didn't seek out Thomas Gates
+regarding the treasure map that night.
+
+63
+00:06:14,658 --> 00:06:16,751
+It was Thomas who called the meeting.
+
+64
+00:06:16,827 --> 00:06:19,728
+A meeting to plan
+the assassination of Lincoln.
+
+65
+00:06:19,796 --> 00:06:22,287
+- How absurd.
+- That's a lie!
+
+66
+00:06:23,667 --> 00:06:26,534
+Ladies and gentlemen,
+I present to you...
+
+67
+00:06:27,737 --> 00:06:31,730
+...one of the missing pages from the
+infamous diary of John Wilkes Booth
+
+68
+00:06:31,808 --> 00:06:36,507
+with the name Thomas Gates written on
+a list along with all the other killers.
+
+69
+00:06:40,016 --> 00:06:43,110
+- And Latin?
+- Booth was a student of Latin.
+
+70
+00:06:43,186 --> 00:06:46,383
+He shouted, "Sic semper tyrannis"
+after he shot Lincoln.
+
+71
+00:06:46,456 --> 00:06:49,983
+- "Thus always to..."
+- "Thus always to tyrants" We know.
+
+72
+00:06:50,694 --> 00:06:54,687
+- "Surratt, copiae"?
+- Military supplies.
+
+73
+00:06:54,764 --> 00:06:57,096
+Mary Surratt was convicted and hanged
+
+74
+00:06:57,200 --> 00:07:00,067
+for supplying Booth with
+a rifle and field glasses.
+
+75
+00:07:03,907 --> 00:07:08,105
+- "Thomas Gates, artifex"
+- "Designer"
+
+76
+00:07:08,178 --> 00:07:11,545
+- or "mastermind"
+- I know what it means.
+
+77
+00:07:13,183 --> 00:07:15,879
+He must have,
+uh, planned the assassination.
+
+78
+00:07:15,952 --> 00:07:18,944
+- I see.
+- Could mean mastermind of anything.
+
+79
+00:07:20,056 --> 00:07:22,650
+You see that?
+Burned out right there.
+
+80
+00:07:23,393 --> 00:07:26,328
+I can only imagine how difficult
+this must be for you.
+
+81
+00:07:26,396 --> 00:07:29,194
+- May l, Mr...?
+- Wilkinson.
+
+82
+00:07:29,266 --> 00:07:31,962
+I'll see if this new page
+matches the Booth diary.
+
+83
+00:07:32,035 --> 00:07:35,198
+This is an outrage.
+You're calling my grandfather a liar.
+
+84
+00:07:35,272 --> 00:07:38,833
+With respect, now you're calling
+my great-great-granddaddy a liar.
+
+85
+00:07:38,909 --> 00:07:42,106
+Yes, sir, I am. This isn't
+some garbage from a history book.
+
+86
+00:07:42,178 --> 00:07:44,544
+My grandfather
+told me this story himself.
+
+87
+00:07:44,614 --> 00:07:48,050
+- I saw the truth of it in his eyes.
+- I'm sorry, sir. I truly am.
+
+88
+00:08:00,463 --> 00:08:03,921
+We'll test this thoroughly,
+Patrick, to authenticate it.
+
+89
+00:08:04,534 --> 00:08:05,967
+It can't be.
+
+90
+00:08:07,337 --> 00:08:09,168
+Maps to presidents' houses.
+
+91
+00:08:10,340 --> 00:08:12,740
+Keys to locks that don't exist.
+
+92
+00:08:13,443 --> 00:08:16,935
+What's the point?
+What am I looking for?
+
+93
+00:08:18,248 --> 00:08:20,478
+Proof, proof, proof.
+
+94
+00:08:21,985 --> 00:08:23,316
+What proof?
+
+95
+00:08:44,140 --> 00:08:47,598
+Oh, wow. Is this a book
+about the Templar treasure?
+
+96
+00:08:47,677 --> 00:08:52,205
+Yes, it is about the Templar treasure,
+but it's also about other things.
+
+97
+00:08:52,282 --> 00:08:56,776
+Conspiracy theories, urban legends
+and other myths that are true.
+
+98
+00:08:56,853 --> 00:09:00,311
+- So the author's here signing copies?
+- I'm the author.
+
+99
+00:09:01,124 --> 00:09:02,785
+- You are?
+- Yeah. See, uh...
+
+100
+00:09:02,859 --> 00:09:05,555
+There's a picture of me right there.
+
+101
+00:09:07,364 --> 00:09:09,355
+I think it's a pretty good picture.
+
+102
+00:09:09,432 --> 00:09:12,731
+I thought that guy,
+Benjamin Gates, found the treasure.
+
+103
+00:09:12,802 --> 00:09:16,670
+Well, yes, Ben did,
+but I am the co-finder.
+
+104
+00:09:16,740 --> 00:09:19,800
+- Oh, I've never heard of you.
+- Oh!
+
+105
+00:09:24,381 --> 00:09:27,578
+Oh, my gosh. Are you Ben Gates?
+
+106
+00:09:29,386 --> 00:09:32,480
+- Yes. Yes, I am.
+- Do you own a red Ferrari?
+
+107
+00:09:35,158 --> 00:09:37,718
+- Yes, I do.
+- Well, it's being towed.
+
+108
+00:09:37,794 --> 00:09:38,988
+Hm?
+
+109
+00:09:48,671 --> 00:09:51,367
+Wait! Wait! That's my car!
+
+110
+00:09:58,314 --> 00:09:59,542
+Where's the Ferrari?
+
+111
+00:10:00,884 --> 00:10:03,944
+- lRS impounded it.
+- The lRS?
+
+112
+00:10:04,020 --> 00:10:08,616
+Funny story.
+My accountant set up a corporation
+
+113
+00:10:08,691 --> 00:10:10,886
+on an island that didn't exist
+
+114
+00:10:10,960 --> 00:10:13,986
+and assured me
+that that's how rich people do it.
+
+115
+00:10:14,064 --> 00:10:18,694
+Then I got audited and slapped
+with a huge fine plus interest.
+
+116
+00:10:20,136 --> 00:10:22,661
+Wanna know what taxes
+are on five million dollars?
+
+117
+00:10:22,739 --> 00:10:25,037
+Six million dollars.
+
+118
+00:10:25,708 --> 00:10:27,903
+But enough about me.
+
+119
+00:10:27,977 --> 00:10:30,343
+What's new with you?
+
+120
+00:10:31,448 --> 00:10:35,282
+Well, my girlfriend kicked me out,
+I'm living with my dad,
+
+121
+00:10:35,351 --> 00:10:38,479
+- my family killed President Lincoln.
+- All right.
+
+122
+00:10:39,923 --> 00:10:41,390
+I need your help.
+
+123
+00:10:41,624 --> 00:10:44,684
+I can't believe
+you have to break into your own house.
+
+124
+00:10:44,761 --> 00:10:48,458
+I need to get Abigail's lD.
+She has access to the Booth diary page.
+
+125
+00:10:48,531 --> 00:10:50,658
+Why don't you ask Abigail for her help?
+
+126
+00:10:50,733 --> 00:10:54,134
+She changed the alarm code, Riley.
+She's not going to talk to me.
+
+127
+00:10:54,204 --> 00:10:55,262
+All right.
+
+128
+00:10:55,338 --> 00:10:59,798
+We have 30 seconds after
+the alert starts to disable the alarm.
+
+129
+00:11:00,877 --> 00:11:03,277
+- Go.
+
+130
+00:11:06,116 --> 00:11:12,077
+I'll probably regret asking this, but
+what happened with you and Abigail?
+
+131
+00:11:12,155 --> 00:11:15,921
+I don't know. I don't know.
+She started using the word "so" a lot.
+
+132
+00:11:15,992 --> 00:11:17,391
+"So?"
+
+133
+00:11:17,460 --> 00:11:20,520
+Yeah, like,
+"So, I guess my opinion doesn't matter"
+
+134
+00:11:20,597 --> 00:11:24,499
+"So, you seem to always know what's best"
+"So, I guess I'm invisible"
+
+135
+00:11:24,567 --> 00:11:27,331
+Now I've moved out,
+we're dividing furniture...
+
+136
+00:11:27,403 --> 00:11:29,200
+- Oh.
+
+137
+00:11:29,272 --> 00:11:33,800
+Women. Can't live with them, especially
+if they change the alarm codes.
+
+138
+00:11:34,244 --> 00:11:35,905
+You did that in 25 seconds.
+
+139
+00:11:36,479 --> 00:11:38,470
+That's why I tell people to get a dog.
+
+140
+00:11:41,317 --> 00:11:43,046
+- Got it.
+- All right, let's go.
+
+141
+00:11:50,160 --> 00:11:52,151
+That's not Abigail's car.
+
+142
+00:11:54,731 --> 00:11:56,198
+She was on a date.
+
+143
+00:11:56,266 --> 00:11:59,758
+Isn't that that guy?
+The White House guy?
+
+144
+00:11:59,869 --> 00:12:03,566
+The White House Easter Egg Roll
+is next Monday. Maybe if you're not...
+
+145
+00:12:03,606 --> 00:12:04,595
+He's weird!
+
+146
+00:12:04,674 --> 00:12:07,336
+What happens if kids
+don't find all the eggs?
+
+147
+00:12:07,410 --> 00:12:10,140
+Wow. You work in a museum,
+and you live in one.
+
+148
+00:12:10,213 --> 00:12:11,475
+Pretty much.
+
+149
+00:12:11,548 --> 00:12:14,073
+What clever repartee.
+She must like him.
+
+150
+00:12:14,150 --> 00:12:17,176
+All right, let me give you
+a tour of the house.
+
+151
+00:12:17,253 --> 00:12:19,778
+- OK.
+- That's actually kind of...
+
+152
+00:12:19,856 --> 00:12:21,585
+Oh, Abigail.
+
+153
+00:12:22,125 --> 00:12:25,390
+- What are you doing here?
+- I just needed to get some things.
+
+154
+00:12:25,461 --> 00:12:28,862
+- Connor, good to see you again.
+- Gates.
+
+155
+00:12:29,632 --> 00:12:31,156
+How did you get in, Ben?
+
+156
+00:12:34,404 --> 00:12:36,770
+Riley! Come out here!
+
+157
+00:12:39,242 --> 00:12:40,834
+What?
+
+158
+00:12:42,745 --> 00:12:47,045
+Hey! What are you doing here?
+I mean, it's your house, but...
+
+159
+00:12:47,116 --> 00:12:50,142
+I sent you a copy of my book.
+Did you get a chance...?
+
+160
+00:12:50,220 --> 00:12:53,246
+- No, I haven't read it yet.
+- Mm.
+
+161
+00:12:53,723 --> 00:12:56,317
+I know you.
+You're the White House curator.
+
+162
+00:12:56,392 --> 00:13:00,954
+- I'm Riley. We met, uh, back in...
+- Right. You're, uh, Ben's assistant.
+
+163
+00:13:01,264 --> 00:13:02,697
+What?
+
+164
+00:13:02,765 --> 00:13:05,359
+Um, maybe I should go.
+
+165
+00:13:05,435 --> 00:13:09,064
+- Yeah, I'm really...
+- Dinner tomorrow night?
+
+166
+00:13:09,739 --> 00:13:12,367
+I... I actually already
+have plans for tomorrow.
+
+167
+00:13:12,442 --> 00:13:13,704
+You do?
+
+168
+00:13:14,911 --> 00:13:17,641
+- Of course you do.
+- But I'm free on Friday.
+
+169
+00:13:17,714 --> 00:13:20,808
+- Awkward.
+- Oh, great.
+
+170
+00:13:22,385 --> 00:13:24,012
+- Good night.
+- Good night.
+
+171
+00:13:24,921 --> 00:13:27,287
+I cannot believe you broke in.
+
+172
+00:13:27,357 --> 00:13:29,951
+- What did you take?
+- It's just my things.
+
+173
+00:13:31,527 --> 00:13:32,721
+Hand it over, Ben.
+
+174
+00:13:32,795 --> 00:13:35,355
+I need to see
+the Booth diary page.
+
+175
+00:13:35,431 --> 00:13:39,231
+You saw the page yourself.
+There is no treasure map on it.
+
+176
+00:13:39,302 --> 00:13:43,102
+No, it's a cipher leading to a map.
+Anyone spectral-image the page?
+
+177
+00:13:43,172 --> 00:13:46,471
+No need to. The ink writing
+on the page is clearly visible.
+
+178
+00:13:46,542 --> 00:13:48,737
+It could have been erased or faded.
+
+179
+00:13:48,811 --> 00:13:52,269
+You're the director of document
+conservation. You know this.
+
+180
+00:13:52,348 --> 00:13:54,339
+Not up to me.
+It's not my department.
+
+181
+00:13:54,417 --> 00:13:56,942
+That department reports
+to your department.
+
+182
+00:13:57,053 --> 00:13:59,317
+Come on. One look under infrared.
+
+183
+00:13:59,355 --> 00:14:01,346
+You can have the Boston Tea Tables.
+
+184
+00:14:07,196 --> 00:14:08,493
+Both of them?
+
+185
+00:14:11,768 --> 00:14:14,601
+We've been looking
+at this page for hours.
+
+186
+00:14:14,671 --> 00:14:16,263
+There's nothing there.
+
+187
+00:14:17,106 --> 00:14:21,543
+Ben, I really don't think we're
+going to find anything on this page.
+
+188
+00:14:21,611 --> 00:14:24,045
+ln a hundred years,
+no one's going to remember
+
+189
+00:14:24,113 --> 00:14:27,412
+anyone involved in the Lincoln
+assassination besides Booth.
+
+190
+00:14:27,483 --> 00:14:31,647
+That's not true. Do you know
+the expression, "His name is mud"?
+
+191
+00:14:31,754 --> 00:14:33,745
+- Yes. Of course.
+- You do?
+
+192
+00:14:33,823 --> 00:14:38,760
+- You know the origin of the expression?
+- Does anyone but you?
+
+193
+00:14:38,828 --> 00:14:42,491
+Dr. Samuel Mudd was convicted
+of being a co-conspirator
+
+194
+00:14:42,565 --> 00:14:46,228
+in the Lincoln assassination.
+The evidence was circumstantial.
+
+195
+00:14:46,302 --> 00:14:49,100
+He was later pardoned,
+but it didn't matter.
+
+196
+00:14:49,172 --> 00:14:53,939
+Mudd's name still lives in infamy. And l
+will not let Thomas Gates' name be mud.
+
+197
+00:14:56,346 --> 00:14:58,075
+- Ben.
+- What?
+
+198
+00:14:58,181 --> 00:14:59,546
+Look at this.
+
+199
+00:15:00,783 --> 00:15:03,308
+- See that?
+- Oh.
+
+200
+00:15:03,386 --> 00:15:08,153
+- That's quite something, isn't it?
+- Yeah. It says "smudge"
+
+201
+00:15:09,025 --> 00:15:10,356
+It's nothing.
+
+202
+00:15:13,229 --> 00:15:16,096
+Residual ink
+from the facing page. Flip it.
+
+203
+00:15:16,766 --> 00:15:18,597
+The letters are backwards.
+
+204
+00:15:18,668 --> 00:15:20,659
+- It's a cipher.
+- Yes. It is.
+
+205
+00:15:20,737 --> 00:15:23,035
+A cipher.
+See how the letters are coupled?
+
+206
+00:15:23,106 --> 00:15:28,874
+Playfair ciphers encode letters
+in pairs. This could prove his story.
+
+207
+00:15:28,945 --> 00:15:33,348
+Unless you decode the cipher,
+this does not prove a theory.
+
+208
+00:15:33,416 --> 00:15:35,646
+That's OK.
+We need a five-letter keyword.
+
+209
+00:15:35,718 --> 00:15:38,016
+- What's the keyword?
+- I don't know yet.
+
+210
+00:15:38,087 --> 00:15:40,851
+- All right.
+- Uh, can I get a printout of this?
+
+211
+00:15:40,923 --> 00:15:43,824
+There's a billion words
+in the English language.
+
+212
+00:15:43,893 --> 00:15:46,953
+Got to be a logical...
+Let's start from the beginning.
+
+213
+00:15:47,029 --> 00:15:48,587
+A. Aardvark.
+
+214
+00:15:48,664 --> 00:15:52,657
+Don't want to rain on your parade here,
+but I don't think this is gonna stop
+
+215
+00:15:52,735 --> 00:15:56,694
+Dr. Nichols from announcing
+the discovery of the page tomorrow.
+
+216
+00:15:56,773 --> 00:16:01,574
+No, now, wait. Can't you ask him to
+wait until I prove Thomas is innocent?
+
+217
+00:16:02,945 --> 00:16:04,606
+What if he isn't innocent?
+
+218
+00:16:15,324 --> 00:16:18,953
+Sir? Looks like our old friend
+Ben Gates is in the news again.
+
+219
+00:16:19,028 --> 00:16:21,155
+What did he find now? Atlantis?
+
+220
+00:16:21,230 --> 00:16:23,926
+A guy came forward
+with a missing Booth diary page.
+
+221
+00:16:24,000 --> 00:16:26,059
+That's not the best part.
+Listen to this.
+
+222
+00:16:26,135 --> 00:16:28,228
+"On the page are the names
+of the conspirators
+
+223
+00:16:28,304 --> 00:16:32,331
+in the Lincoln assassination, as well
+as a previously unknown conspirator,
+
+224
+00:16:32,408 --> 00:16:36,037
+Thomas Gates. Thomas Gates is said
+to be the great-great-grandfather
+
+225
+00:16:36,112 --> 00:16:38,706
+of treasure hunter
+Benjamin Franklin Gates"
+
+226
+00:16:38,781 --> 00:16:42,683
+- Thought my relatives were bad.
+- What do we know about this Wilkinson?
+
+227
+00:16:42,752 --> 00:16:46,950
+- Sir?
+- Guy claims he had this page
+
+228
+00:16:47,023 --> 00:16:50,356
+for 140 years then just suddenly
+comes forward with it?
+
+229
+00:16:52,328 --> 00:16:54,694
+- Why?
+- We'll find out.
+
+230
+00:16:54,764 --> 00:16:55,264
+Better.
+
+231
+00:16:55,264 --> 00:16:56,060
+Better.
+
+232
+00:16:56,933 --> 00:16:58,230
+Bacon.
+
+233
+00:17:01,404 --> 00:17:03,099
+- Keep going.
+- That's stupid.
+
+234
+00:17:08,344 --> 00:17:11,370
+- How's he doing?
+- Keep working.
+
+235
+00:17:13,182 --> 00:17:15,980
+We're grateful
+to the Wilkinson family
+
+236
+00:17:16,052 --> 00:17:17,747
+for coming forth with the page.
+
+237
+00:17:17,820 --> 00:17:22,689
+On the page is a name of a previously
+unknown conspirator, Thomas Gates.
+
+238
+00:17:22,758 --> 00:17:26,285
+- Nichols has bought into it. See?
+- Would you stop watching that.
+
+239
+00:17:28,464 --> 00:17:29,795
+It's on the internet!
+
+240
+00:17:30,633 --> 00:17:34,069
+- No stopping it now.
+- Gates may have been the architect...
+
+241
+00:17:35,004 --> 00:17:37,734
+- They have no understanding.
+- You know the truth.
+
+242
+00:17:37,807 --> 00:17:41,106
+That's all that matters.
+You heard the story from Grandpa.
+
+243
+00:17:41,177 --> 00:17:45,546
+The story? This guy's got evidence.
+He's got everything.
+
+244
+00:17:45,615 --> 00:17:47,446
+We have a story. We have nothing.
+
+245
+00:17:47,517 --> 00:17:51,044
+For one brief moment,
+the Gates family could hold its head up.
+
+246
+00:17:51,120 --> 00:17:54,180
+- Now we're a bunch of crazies.
+- But we're not liars.
+
+247
+00:17:55,391 --> 00:17:57,484
+Wilkinson is saying that Thomas Gates
+
+248
+00:17:57,593 --> 00:18:02,155
+was a mastermind to one of
+the darkest hours in U.S. history.
+
+249
+00:18:02,198 --> 00:18:04,792
+And he burned the diary page
+to cover that up.
+
+250
+00:18:05,568 --> 00:18:07,968
+You and I both know he burned the page
+
+251
+00:18:08,037 --> 00:18:10,528
+to keep Booth's men
+from finding the treasure.
+
+252
+00:18:10,606 --> 00:18:12,403
+That's what we're going to prove.
+
+253
+00:18:12,475 --> 00:18:14,966
+- Only one way to prove it.
+- Find the treasure.
+
+254
+00:18:15,044 --> 00:18:18,411
+You've got to find it. You're
+going to help me find it. So come on.
+
+255
+00:18:18,481 --> 00:18:21,177
+Let's hear the story again
+from Grandpa Charles.
+
+256
+00:18:21,250 --> 00:18:25,812
+Grandpa heard his father say,
+"Treasure map"
+
+257
+00:18:25,888 --> 00:18:29,949
+- Then there was a commotion.
+- Got all that. Anything after that?
+
+258
+00:18:30,026 --> 00:18:33,587
+Anything he said,
+something he did? Anything at all?
+
+259
+00:18:34,463 --> 00:18:36,488
+- Wait a minute.
+- What?
+
+260
+00:18:39,602 --> 00:18:41,763
+He took his son's hand.
+
+261
+00:18:41,837 --> 00:18:45,933
+He looked him in the eye, and he said,
+with his dying breath,
+
+262
+00:18:46,008 --> 00:18:50,877
+- "The debt that all men pay"
+- "The debt that all men pay"?
+
+263
+00:18:50,947 --> 00:18:53,074
+The debt that Thomas paid.
+
+264
+00:18:53,616 --> 00:18:55,481
+That's five letters.
+
+265
+00:18:55,551 --> 00:18:57,075
+Oh!
+
+266
+00:18:57,186 --> 00:18:58,312
+Try "Death"
+
+267
+00:18:58,354 --> 00:19:00,117
+- What?
+- It's the key code.
+
+268
+00:19:00,189 --> 00:19:02,020
+The debt that all men pay is death.
+
+269
+00:19:06,762 --> 00:19:07,820
+All right.
+
+270
+00:19:09,865 --> 00:19:12,732
+L-A-B-O-U-I...
+
+271
+00:19:12,902 --> 00:19:15,370
+It's Lab-ool...
+
+272
+00:19:15,438 --> 00:19:19,636
+Lab-ahl... La...
+
+273
+00:19:19,709 --> 00:19:20,869
+It's gibberish.
+
+274
+00:19:20,943 --> 00:19:23,173
+- Laboulaye!
+- Laboulaye!
+
+275
+00:19:23,245 --> 00:19:25,873
+- What is that?
+- It's a who. douard Laboulaye.
+
+276
+00:19:25,948 --> 00:19:26,972
+Where's the phone?
+
+277
+00:19:27,049 --> 00:19:29,745
+I don't know.
+Can't find anything in this mess.
+
+278
+00:19:29,819 --> 00:19:33,812
+- Temporary till I find a new place.
+- Find the old one. I like her.
+
+279
+00:19:36,325 --> 00:19:38,088
+- Hi.
+- Dr. Chase.
+
+280
+00:19:38,160 --> 00:19:40,321
+- Abigail, please.
+- Abigail.
+
+281
+00:19:40,396 --> 00:19:42,694
+- Nice to meet you.
+- Have a seat.
+
+282
+00:19:46,168 --> 00:19:48,329
+Thanks for agreeing to meet with me.
+
+283
+00:19:48,404 --> 00:19:52,204
+Of course. I was actually going
+to call you about the diary page.
+
+284
+00:19:52,274 --> 00:19:54,504
+- Any news?
+- Well...
+
+285
+00:19:54,577 --> 00:19:58,911
+We actually found some
+latent letter fragments on it.
+
+286
+00:20:00,983 --> 00:20:02,541
+Take a look.
+
+287
+00:20:03,753 --> 00:20:06,119
+Random letters. A cipher?
+
+288
+00:20:06,188 --> 00:20:07,815
+- Maybe.
+- Gates seen this?
+
+289
+00:20:07,890 --> 00:20:09,949
+He's the one that discovered it.
+
+290
+00:20:11,093 --> 00:20:13,561
+- I'm sorry.
+- Not a problem.
+
+291
+00:20:16,032 --> 00:20:18,660
+- I need one minute.
+- Please, take your time.
+
+292
+00:20:18,734 --> 00:20:19,928
+Hey. What?
+
+293
+00:20:20,002 --> 00:20:22,470
+We cracked the cipher. It's "Laboulaye"
+
+294
+00:20:22,538 --> 00:20:24,267
+The cipher spells "Laboulaye. "
+
+295
+00:20:24,340 --> 00:20:28,367
+So? Laboulaye was well-known
+in France. It could be nothing.
+
+296
+00:20:28,444 --> 00:20:32,141
+Or maybe there was a treasure map
+like Thomas Gates said there was,
+
+297
+00:20:32,214 --> 00:20:35,445
+and Laboulaye had it.
+We only got a partial on the next word.
+
+298
+00:20:35,518 --> 00:20:37,679
+L-A-D, lad... ladder...
+
+299
+00:20:37,753 --> 00:20:39,414
+- L-A-D.
+- Aladdin! Aladdin?
+
+300
+00:20:39,488 --> 00:20:41,888
+- Lady!
+- Thank you, Abigail!
+
+301
+00:20:42,625 --> 00:20:45,992
+Laboulaye Lady. Do you know
+what Laboulaye was planning
+
+302
+00:20:46,062 --> 00:20:48,690
+right around the time
+Lincoln was assassinated?
+
+303
+00:20:48,764 --> 00:20:50,891
+OK, Ben, I've got to go.
+
+304
+00:20:50,966 --> 00:20:53,434
+There's a map or a clue to a map
+on the Statue...
+
+305
+00:20:54,270 --> 00:20:56,932
+- She hung up.
+- She took your call. That was good.
+
+306
+00:20:57,039 --> 00:20:59,701
+- Dr. Gates?
+- Yes.
+
+307
+00:21:00,543 --> 00:21:04,946
+Sounds like he cracked the cipher.
+I couldn't help but overhear.
+
+308
+00:21:05,014 --> 00:21:08,074
+Laboulaye? As in douard Laboulaye?
+
+309
+00:21:08,150 --> 00:21:10,744
+He seems to believe so, yes.
+
+310
+00:21:10,820 --> 00:21:13,220
+Man who had the idea
+for the Statue of Liberty.
+
+311
+00:21:13,289 --> 00:21:16,520
+You're saying there's a treasure map
+in the Statue of Liberty?
+
+312
+00:21:16,592 --> 00:21:20,494
+Laboulaye was a Mason.
+They built clues into everything.
+
+313
+00:21:20,563 --> 00:21:22,428
+Did you learn that from my book?
+
+314
+00:21:25,468 --> 00:21:28,096
+- Have an interest in history?
+- Fascinated by it.
+
+315
+00:21:28,704 --> 00:21:31,639
+Civil War, especially.
+My family's descended from
+
+316
+00:21:31,707 --> 00:21:35,006
+Confederate General Albert Pike.
+He was a remarkable man.
+
+317
+00:21:35,077 --> 00:21:39,275
+But, then again, what is history but
+a marker for the deeds of great men?
+
+318
+00:21:39,348 --> 00:21:44,513
+A man only has one lifetime,
+but history can remember you forever.
+
+319
+00:21:44,587 --> 00:21:47,750
+So the only question is,
+which Statue of Liberty?
+
+320
+00:21:47,823 --> 00:21:48,915
+Exactly.
+
+321
+00:21:49,959 --> 00:21:51,290
+Is there more than one?
+
+322
+00:21:52,428 --> 00:21:54,919
+There are three, actually, Riley.
+
+323
+00:21:54,997 --> 00:21:59,434
+One is in New York,
+one in the Luxembourg Garden.
+
+324
+00:21:59,535 --> 00:22:01,003
+But he only referred to one
+as his "lady"
+
+325
+00:22:01,003 --> 00:22:02,334
+But he only referred to one
+as his "lady"
+
+326
+00:22:19,121 --> 00:22:21,885
+This is like, impossible,
+what you're doing.
+
+327
+00:22:21,957 --> 00:22:23,584
+I'm glad you're enjoying it.
+
+328
+00:22:23,659 --> 00:22:27,686
+Laboulaye had to leave a clue
+somewhere on here. Move in on the torch.
+
+329
+00:22:27,763 --> 00:22:30,596
+Let me get there.
+It's not as easy as it looks.
+
+330
+00:22:30,666 --> 00:22:33,066
+No. Believe me, I understand.
+
+331
+00:22:36,772 --> 00:22:38,831
+Excuse me, officer. May I help you?
+
+332
+00:22:39,308 --> 00:22:42,175
+Ah, American, eh?
+
+333
+00:22:42,311 --> 00:22:43,801
+Of course you see no problem
+
+334
+00:22:43,879 --> 00:22:47,110
+in disturbing everyone's
+pleasant morning
+
+335
+00:22:47,183 --> 00:22:49,549
+- with your buzzing there.
+- Hey!
+
+336
+00:22:49,618 --> 00:22:53,918
+You know how much our constitution was
+influenced by your man, Montesquieu?
+
+337
+00:22:53,989 --> 00:22:55,718
+- You know Montesquieu?
+- Got it.
+
+338
+00:22:58,093 --> 00:23:01,324
+Montesquieu, yeah. "A government
+should be set up so that..."
+
+339
+00:23:01,363 --> 00:23:04,491
+"...no man need
+be afraid of another"
+
+340
+00:23:05,067 --> 00:23:06,796
+- That's very good.
+- Thank you.
+
+341
+00:23:08,137 --> 00:23:10,628
+- I'm astonished.
+- I got it, I got it.
+
+342
+00:23:10,973 --> 00:23:13,771
+- I hope you read French.
+- May l?
+
+343
+00:23:15,644 --> 00:23:17,077
+He's a cop.
+
+344
+00:23:17,146 --> 00:23:22,914
+Um... "Across the sea
+these twins stand determined..."
+
+345
+00:23:22,985 --> 00:23:25,453
+- Resolute.
+- "Resolute" yeah.
+
+346
+00:23:25,521 --> 00:23:28,422
+"...to preserve what we are looking for.
+
+347
+00:23:28,490 --> 00:23:32,392
+- Uh... Laboulaye, 1876"
+- Six.
+
+348
+00:23:32,461 --> 00:23:35,988
+- It's a clue.
+- "These twins stand resolute"
+
+349
+00:23:36,332 --> 00:23:38,994
+Let's see. Resolute twins.
+
+350
+00:23:40,603 --> 00:23:42,002
+Resolute.
+
+351
+00:23:42,771 --> 00:23:45,604
+Resolute. And then twins.
+
+352
+00:23:46,375 --> 00:23:51,312
+Siamese twins? Siam? Trade routes
+between France and Thailand?
+
+353
+00:23:52,014 --> 00:23:54,949
+That's ridiculous.
+HMS Resolute.
+
+354
+00:23:55,885 --> 00:24:00,345
+A British ship that got lost
+in the Arctic in the 1800s.
+
+355
+00:24:00,456 --> 00:24:05,393
+It was salvaged by American whalers, and
+then Congress sent it back to England.
+
+356
+00:24:05,427 --> 00:24:07,918
+When the ship was finally retired,
+
+357
+00:24:07,997 --> 00:24:12,957
+Queen Victoria had two desks
+made from its timbers.
+
+358
+00:24:13,035 --> 00:24:15,435
+Voil. Resolute twins.
+
+359
+00:24:15,504 --> 00:24:19,838
+- And where are those desks now?
+- The closest one is in London.
+
+360
+00:24:19,909 --> 00:24:22,207
+How fast can we get
+to Buckingham Palace?
+
+361
+00:24:22,278 --> 00:24:24,838
+Don't know. Why don't you ask
+your new best friend?
+
+362
+00:24:27,416 --> 00:24:28,940
+He's going to call you a cab.
+
+363
+00:24:29,018 --> 00:24:30,542
+- OK?
+
+364
+00:24:30,619 --> 00:24:34,282
+- Nice helicopter. Is that yours?
+- Yes, actually. It is.
+
+365
+00:24:34,356 --> 00:24:38,452
+- OK, so you get the ticket.
+- Great.
+
+366
+00:24:38,894 --> 00:24:42,523
+Mitch Wilkinson studied history
+at Virginia Military lnstitute.
+
+367
+00:24:42,598 --> 00:24:46,466
+Graduated 1978. Ran a private security
+company which had contracts in lraq
+
+368
+00:24:46,535 --> 00:24:49,333
+during the invasion,
+and in the Congo in the late '90s.
+
+369
+00:24:49,405 --> 00:24:53,671
+These are trained mercenaries as well as
+being black-market antiquities dealers.
+
+370
+00:24:54,543 --> 00:24:57,273
+So why does a black market
+antiquities dealer...
+
+371
+00:24:57,947 --> 00:25:01,610
+...give up a rare Civil War artifact?
+
+372
+00:25:01,684 --> 00:25:05,916
+Something he could sell to a private
+collector for a good deal of money?
+
+373
+00:26:09,351 --> 00:26:11,319
+So the queen's office is here.
+
+374
+00:26:11,387 --> 00:26:13,480
+The elevator shaft gets you close,
+
+375
+00:26:13,555 --> 00:26:17,389
+but the only direct access
+is through security.
+
+376
+00:26:17,459 --> 00:26:20,917
+- That should be exciting.
+- We got to get you in that room.
+
+377
+00:26:22,564 --> 00:26:23,997
+- Hi, Dad.
+- Ben.
+
+378
+00:26:24,066 --> 00:26:26,626
+It's Patrick Gates' phone.
+He's calling Ben.
+
+379
+00:26:26,702 --> 00:26:27,760
+Give me that.
+
+380
+00:26:28,637 --> 00:26:31,504
+The house was broken into
+last night. I was attacked.
+
+381
+00:26:31,573 --> 00:26:33,097
+Call the police. I'm coming home.
+
+382
+00:26:33,175 --> 00:26:35,006
+- What?
+- What good would that do?
+
+383
+00:26:35,077 --> 00:26:38,171
+They didn't take anything.
+And besides, I'm fine.
+
+384
+00:26:38,247 --> 00:26:41,705
+OK. We're in London.
+We're going to Buckingham Palace.
+
+385
+00:26:41,784 --> 00:26:44,947
+We have an appointment
+with the curator tomorrow afternoon.
+
+386
+00:26:45,020 --> 00:26:47,250
+- Son, just be careful. Goodbye.
+- Bye.
+
+387
+00:26:47,322 --> 00:26:49,187
+Someone else is after the treasure.
+
+388
+00:26:49,258 --> 00:26:51,658
+Of course someone else
+is after the treasure.
+
+389
+00:26:51,727 --> 00:26:55,595
+- It's the axiom of treasure hunting.
+- We have to hurry and see that desk.
+
+390
+00:26:55,664 --> 00:26:57,859
+We don't want to miss that appointment.
+
+391
+00:27:00,035 --> 00:27:03,129
+- Hi. Ben Gates.
+- See security. They'll let you in.
+
+392
+00:27:19,288 --> 00:27:20,277
+Wow.
+
+393
+00:27:43,445 --> 00:27:46,107
+OK. It's teatime, chaps.
+
+394
+00:28:00,062 --> 00:28:03,190
+Looking for the curator's office.
+Which way was it again?
+
+395
+00:28:03,265 --> 00:28:05,733
+Follow the stairs round,
+then turn first left.
+
+396
+00:28:05,801 --> 00:28:07,428
+Thank you so much.
+
+397
+00:28:12,307 --> 00:28:14,605
+- Ben.
+- Abigail.
+
+398
+00:28:14,676 --> 00:28:16,906
+- What's she doing here?
+- What're you doing?
+
+399
+00:28:16,979 --> 00:28:20,073
+Your dad called me.
+Said your next clue was here.
+
+400
+00:28:20,149 --> 00:28:22,083
+- She's really there?
+- Ben...
+
+401
+00:28:22,151 --> 00:28:23,618
+- drop her. Lose her.
+- I want to help.
+
+402
+00:28:23,685 --> 00:28:26,449
+That's very nice,
+but it's a bad time right now.
+
+403
+00:28:26,522 --> 00:28:30,219
+- A bad time, right now?
+- It's a bad time.
+
+404
+00:28:30,292 --> 00:28:34,922
+OK, I just flew all the way
+to London to offer my help...
+
+405
+00:28:34,997 --> 00:28:37,397
+- Remember the plan.
+- You don't need it?
+
+406
+00:28:37,499 --> 00:28:39,228
+You're the one making a scene.
+
+407
+00:28:39,301 --> 00:28:42,737
+- I... I'm not making a scene right now.
+- We want to make a scene.
+
+408
+00:28:42,804 --> 00:28:46,433
+Well then, fine! If that's what
+you want, let's have it out now!
+
+409
+00:28:46,942 --> 00:28:50,708
+- So subtle.
+- Let me guess? It's the wrong time.
+
+410
+00:28:50,779 --> 00:28:53,646
+It's the wrong place. I'm wrong again!
+
+411
+00:28:53,715 --> 00:28:56,650
+Wrong about us,
+wrong about Thomas Gates,
+
+412
+00:28:56,718 --> 00:28:59,312
+wrong that you'd like
+the Queen Anne chair!
+
+413
+00:28:59,421 --> 00:29:01,412
+You're wrong to assume
+I'd like the chair.
+
+414
+00:29:01,456 --> 00:29:05,358
+You see? Everybody, listen to this.
+This is more interesting than that.
+
+415
+00:29:05,427 --> 00:29:08,919
+She thinks that even when I'm right,
+I'm wrong! Isn't that right?
+
+416
+00:29:08,997 --> 00:29:12,865
+Abigail, just because
+I answer a question quickly
+
+417
+00:29:12,935 --> 00:29:14,300
+doesn't make it wrong.
+
+418
+00:29:14,369 --> 00:29:18,066
+Not if the answer's something
+we need to figure out as a couple.
+
+419
+00:29:18,140 --> 00:29:19,835
+- That's what couples do!
+- Sir.
+
+420
+00:29:19,908 --> 00:29:21,899
+You and your missus, take it outside.
+
+421
+00:29:21,977 --> 00:29:26,038
+Now look what you've done. You've
+brought the little bobbies down on us!
+
+422
+00:29:26,114 --> 00:29:29,083
+You take the missus outside.
+I'm staying right here.
+
+423
+00:29:29,785 --> 00:29:31,685
+- Ben!
+- Whee!
+
+424
+00:29:31,753 --> 00:29:33,482
+- Good afternoon, sir.
+- Hello.
+
+425
+00:29:33,555 --> 00:29:36,023
+- Been drinking, have we?
+- Just a nip.
+
+426
+00:29:36,091 --> 00:29:39,117
+Popped down to the pub for a pint!
+Bit of all right!
+
+427
+00:29:39,194 --> 00:29:41,162
+Going to arrest a man for that?
+
+428
+00:29:41,230 --> 00:29:44,666
+Going to detain a blighter
+for enjoying his whiskey?
+
+429
+00:29:44,733 --> 00:29:46,325
+- Enough.
+- Bangers and mash.
+
+430
+00:29:46,401 --> 00:29:48,028
+Bubbles and squeak. Smoked eel pie.
+
+431
+00:29:48,103 --> 00:29:49,127
+- Sir!
+- Haggis!
+
+432
+00:29:49,204 --> 00:29:53,072
+- That's it! Dismount the banister!
+- I've got a lovely bunch of coconuts!
+
+433
+00:29:53,141 --> 00:29:55,234
+Here they are, standing in a row!
+
+434
+00:29:55,310 --> 00:29:58,370
+Small ones, big ones,
+some as big as your head!
+
+435
+00:29:58,447 --> 00:30:00,938
+That was brilliant.
+
+436
+00:30:01,550 --> 00:30:05,384
+- What's wrong with being right?
+- Nothing. You should try it sometime.
+
+437
+00:30:05,454 --> 00:30:08,514
+- You're saying that I'm never right?
+- I did not say that.
+
+438
+00:30:08,590 --> 00:30:10,717
+Hoo! So I'm wrong again.
+
+439
+00:30:11,026 --> 00:30:13,893
+- Now, see, there you are correct.
+- Capital. Topper.
+
+440
+00:30:13,962 --> 00:30:18,194
+- Your mother told me about you.
+
+441
+00:30:19,167 --> 00:30:23,729
+- ln here, please.
+- Why don't you just make a list
+
+442
+00:30:23,805 --> 00:30:26,968
+of what's OK for me
+to say or not write something...
+
+443
+00:30:27,643 --> 00:30:29,941
+- What's right or wrong...
+- You two, stay.
+
+444
+00:30:30,012 --> 00:30:31,980
+- Right?
+- No! No, no, man.
+
+445
+00:30:32,047 --> 00:30:35,312
+- Don't leave me in here!
+- That's great. Wow.
+
+446
+00:30:35,917 --> 00:30:37,350
+What is going on?
+
+447
+00:30:37,419 --> 00:30:41,355
+I'm sorry for getting you roped
+into this, but you were excellent.
+
+448
+00:30:41,957 --> 00:30:44,517
+- Thank you. So were you.
+- When did you figure out
+
+449
+00:30:44,593 --> 00:30:47,323
+- it was a fake argument?
+- When'd you figure out I was
+
+450
+00:30:47,396 --> 00:30:50,058
+- arguing during the fake argument?
+- The middle.
+
+451
+00:30:50,132 --> 00:30:53,067
+Where "I assume I'm right"
+Get us out. Which I don't get.
+
+452
+00:30:53,135 --> 00:30:56,070
+If I'm right, after I assume I'm right,
+then I'm correct.
+
+453
+00:30:56,138 --> 00:30:58,572
+When you get to a conclusion
+without asking,
+
+454
+00:30:58,674 --> 00:31:01,666
+and you happen to be right,
+you got lucky.
+
+455
+00:31:03,245 --> 00:31:04,769
+I get lucky a lot.
+
+456
+00:31:05,247 --> 00:31:07,374
+So where does that leave me, Ben?
+
+457
+00:31:07,449 --> 00:31:09,679
+You guys are so great together.
+
+458
+00:31:09,751 --> 00:31:11,651
+- Want to know why I'm here?
+- Uh-huh.
+
+459
+00:31:13,689 --> 00:31:17,090
+Think there may be a clue on
+the Resolute desk in the queen's study.
+
+460
+00:31:18,927 --> 00:31:20,326
+Does that help?
+
+461
+00:31:20,395 --> 00:31:24,855
+Don't understand why it's difficult for
+you to include others in your decisions.
+
+462
+00:31:24,933 --> 00:31:28,460
+Just because you may know
+what my answer is going to be
+
+463
+00:31:28,537 --> 00:31:31,097
+doesn't mean you don't have to ask me.
+
+464
+00:31:31,673 --> 00:31:34,574
+- door number one, opening.
+
+465
+00:31:36,645 --> 00:31:38,738
+OK. Let me try this out.
+
+466
+00:31:39,781 --> 00:31:42,909
+Abigail, would you like
+to come with me, please?
+
+467
+00:31:42,984 --> 00:31:44,747
+Yes. Thank you.
+
+468
+00:31:44,820 --> 00:31:46,447
+Ridiculous. You're staying.
+
+469
+00:31:46,521 --> 00:31:48,455
+- It's too dangerous.
+- I am so coming.
+
+470
+00:31:48,523 --> 00:31:51,083
+- Door number two.
+- Door two, coming up.
+
+471
+00:31:52,227 --> 00:31:54,092
+- You're not coming.
+- Call security.
+
+472
+00:31:54,696 --> 00:31:57,688
+You should be near
+a service elevator.
+
+473
+00:31:57,799 --> 00:31:59,994
+What are you doing?
+Are those for the queen?
+
+474
+00:32:00,035 --> 00:32:04,062
+Queen's not here. There's
+no flag flying. Queen's at Windsor.
+
+475
+00:32:04,139 --> 00:32:06,664
+- What are you doing?
+- See the desk, without you.
+
+476
+00:32:07,943 --> 00:32:09,342
+- No.
+- Don't let her go.
+
+477
+00:32:09,411 --> 00:32:10,844
+- Abigail...
+
+478
+00:32:11,947 --> 00:32:13,938
+All right. Get in. Get in. Get in!
+
+479
+00:32:15,617 --> 00:32:16,879
+Hold this.
+
+480
+00:32:23,058 --> 00:32:25,356
+Will you give me
+the flowers back, please?
+
+481
+00:32:25,427 --> 00:32:26,485
+Yeah.
+
+482
+00:32:32,567 --> 00:32:36,264
+- What?
+- Wearing the perfume I bought you.
+
+483
+00:32:37,139 --> 00:32:38,128
+So?
+
+484
+00:32:38,774 --> 00:32:40,969
+So I think it smells kind of pretty.
+
+485
+00:32:41,810 --> 00:32:44,973
+- It's the flowers, Ben.
+- No, it's not.
+
+486
+00:32:48,250 --> 00:32:49,717
+Let's go.
+
+487
+00:32:54,689 --> 00:32:56,350
+OK, now turn left.
+
+488
+00:32:57,225 --> 00:32:59,955
+- Dead end.
+- I mean right. Go right.
+
+489
+00:33:06,001 --> 00:33:09,368
+- The flowers... petals... stamens.
+- Good. Good.
+
+490
+00:33:17,379 --> 00:33:18,710
+Go, go.
+
+491
+00:33:21,716 --> 00:33:23,081
+That's it.
+
+492
+00:33:25,053 --> 00:33:26,680
+The Resolute desk.
+
+493
+00:33:27,789 --> 00:33:29,154
+We're looking for...
+
+494
+00:33:30,258 --> 00:33:35,059
+...writing, patterns in the carvings.
+Could be anything.
+
+495
+00:33:38,567 --> 00:33:39,932
+Hey, look at this.
+
+496
+00:33:42,938 --> 00:33:48,137
+- "Malcolm Gilvary, 1880"
+- Hold on one second.
+
+497
+00:33:48,910 --> 00:33:53,370
+Here we go. Malcolm Gilvary.
+He didn't make furniture.
+
+498
+00:33:53,448 --> 00:33:56,542
+He made Chinese puzzle boxes.
+
+499
+00:34:04,459 --> 00:34:05,983
+- Oh...
+- What?
+
+500
+00:34:07,095 --> 00:34:11,657
+I think these drawers
+work like tumblers in a safe.
+
+501
+00:34:11,733 --> 00:34:15,260
+OK, four drawers...
+Four-digit combination?
+
+502
+00:34:16,204 --> 00:34:17,296
+What about a year?
+
+503
+00:34:17,372 --> 00:34:22,105
+Uh, let me see.
+Queen Victoria, born 1819.
+
+504
+00:34:22,177 --> 00:34:24,008
+So you go one...
+
+505
+00:34:26,948 --> 00:34:27,937
+Eight.
+
+506
+00:34:32,988 --> 00:34:34,012
+One.
+
+507
+00:34:38,159 --> 00:34:39,217
+Nine.
+
+508
+00:34:41,062 --> 00:34:44,759
+- Any luck?
+- OK... 1876 was on the inscription
+
+509
+00:34:44,833 --> 00:34:47,165
+on the statue in Paris. Let's try that.
+
+510
+00:34:47,702 --> 00:34:48,691
+One.
+
+511
+00:34:51,039 --> 00:34:52,267
+Eight.
+
+512
+00:34:54,843 --> 00:34:56,572
+Seven.
+
+513
+00:35:01,349 --> 00:35:02,680
+Six.
+
+514
+00:35:29,411 --> 00:35:30,400
+Uh-oh.
+
+515
+00:35:31,012 --> 00:35:32,206
+New rules.
+
+516
+00:35:33,081 --> 00:35:36,346
+These markings, like lncan or Aztec.
+
+517
+00:35:36,418 --> 00:35:38,648
+I have never seen any symbols like this.
+
+518
+00:35:38,720 --> 00:35:44,090
+I mean, this looks centuries older
+than Civil War.
+
+519
+00:35:44,159 --> 00:35:45,558
+What do you think it means?
+
+520
+00:35:45,627 --> 00:35:49,154
+I doubt it has anything to do
+with the plot to assassinate Lincoln.
+
+521
+00:35:51,800 --> 00:35:52,960
+Uh-oh.
+
+522
+00:35:53,034 --> 00:35:55,332
+Mayday. Mayday. Ben, get out of there.
+
+523
+00:36:00,976 --> 00:36:05,208
+- Oi! Where are my detainees?
+- OK, let's make some noise.
+
+524
+00:36:09,818 --> 00:36:11,217
+The fire alarm's gone off.
+
+525
+00:36:11,286 --> 00:36:13,345
+Uh-oh. God save the queen.
+
+526
+00:36:14,389 --> 00:36:16,323
+All units, go to action zebra.
+
+527
+00:36:16,391 --> 00:36:18,484
+- What's going on?
+- Haven't the foggiest.
+
+528
+00:36:21,062 --> 00:36:24,657
+Someone or something is causing this.
+
+529
+00:36:24,733 --> 00:36:27,998
+- Check your primary stations.
+- This doesn't make any sense.
+
+530
+00:36:28,069 --> 00:36:31,334
+Find the source terminal
+and check public areas four and eight.
+
+531
+00:36:47,188 --> 00:36:51,318
+This way, ladies and gentlemen.
+Thank you very much. Keep moving.
+
+532
+00:36:51,393 --> 00:36:55,022
+Keep walking until you're
+on the other side of the fountain.
+
+533
+00:36:55,096 --> 00:37:00,432
+- Excuse me, excuse me. Coming through.
+- I got them. They're at the main gate.
+
+534
+00:37:18,253 --> 00:37:21,416
+- Oi! Sparkle. Come on.
+- OK. Here we go.
+
+535
+00:37:21,489 --> 00:37:23,047
+I'm a little bit allergic.
+
+536
+00:37:23,124 --> 00:37:25,285
+- Riley.
+- Thank you. OK.
+
+537
+00:37:25,360 --> 00:37:28,693
+- See you later. Thank you. Bye-bye.
+- Sit! Sorry!
+
+538
+00:37:29,698 --> 00:37:32,326
+Thanks for waiting for me.
+Can I see the thing?
+
+539
+00:37:33,835 --> 00:37:35,234
+Daniel, hold it.
+
+540
+00:37:37,739 --> 00:37:39,070
+What is that?
+
+541
+00:37:39,140 --> 00:37:41,836
+Went to Buckingham Palace,
+all I got was this wood?
+
+542
+00:37:41,910 --> 00:37:44,572
+Look at the symbols.
+Never seen anything like this.
+
+543
+00:37:45,146 --> 00:37:46,875
+It's an incredible discovery.
+
+544
+00:37:48,049 --> 00:37:51,951
+- Wilkinson.
+- Stop them. Go, go, go!
+
+545
+00:37:53,888 --> 00:37:56,516
+- He's the one after the treasure.
+- I'll drive.
+
+546
+00:38:00,195 --> 00:38:01,287
+We're in England.
+
+547
+00:38:08,336 --> 00:38:09,667
+It's a gun! Get down!
+
+548
+00:38:12,540 --> 00:38:16,237
+- We're trapped!
+- Hang on! Keep your heads down.
+
+549
+00:38:27,689 --> 00:38:28,781
+Hey, who are you?
+
+550
+00:38:44,806 --> 00:38:45,898
+Sorry.
+
+551
+00:38:48,910 --> 00:38:51,140
+- Hey!
+- Oi!
+
+552
+00:38:57,385 --> 00:39:00,616
+- Ben, they're getting closer.
+- What is their problem?
+
+553
+00:39:03,458 --> 00:39:04,891
+Whoa!
+
+554
+00:39:06,427 --> 00:39:08,520
+- Go left! Go left!
+- Hold on.
+
+555
+00:39:15,603 --> 00:39:16,900
+Turn, turn!
+
+556
+00:39:17,906 --> 00:39:18,895
+Watch out!
+
+557
+00:39:25,513 --> 00:39:26,639
+Everybody OK?
+
+558
+00:39:31,920 --> 00:39:34,980
+- Come on, come on.
+- Danny, I want them stopped.
+
+559
+00:39:39,594 --> 00:39:40,720
+Look out!
+
+560
+00:39:41,496 --> 00:39:42,485
+Ah!
+
+561
+00:39:51,072 --> 00:39:52,232
+Ah!
+
+562
+00:40:14,429 --> 00:40:15,760
+Go. Go, go, go, go!
+
+563
+00:40:18,433 --> 00:40:19,923
+Did you see where he went?
+
+564
+00:40:24,439 --> 00:40:27,670
+- What is that? Someone's phone.
+- It's him.
+
+565
+00:40:27,742 --> 00:40:30,973
+- Have his number in your speed dial?
+- Oh, shu...
+
+566
+00:40:31,045 --> 00:40:33,240
+This has to end
+before someone gets hurt.
+
+567
+00:40:33,314 --> 00:40:36,340
+Give me what you got at Buckingham,
+it won't be necessary.
+
+568
+00:40:36,417 --> 00:40:37,714
+Tell that to my father.
+
+569
+00:40:40,488 --> 00:40:43,514
+- Moron!
+
+570
+00:40:43,591 --> 00:40:46,082
+Why are they standing
+in the middle of the street?
+
+571
+00:40:48,396 --> 00:40:51,331
+- Where are these people going?
+- Why's everyone running?
+
+572
+00:40:55,103 --> 00:40:57,071
+- He's right there! Go!
+- Move!
+
+573
+00:40:59,607 --> 00:41:01,541
+- Get out of the way!
+
+574
+00:41:03,511 --> 00:41:06,912
+- Did I just run over a man's foot?
+- Watch the people!
+
+575
+00:41:15,556 --> 00:41:17,183
+Go! Go! Faster!
+
+576
+00:41:29,804 --> 00:41:31,669
+- Right over there.
+- I got them.
+
+577
+00:41:33,007 --> 00:41:35,805
+- They're still behind us.
+- This phone have a camera?
+
+578
+00:41:35,877 --> 00:41:39,369
+- No. No, it's broken.
+- All right. Give me the plank.
+
+579
+00:41:43,551 --> 00:41:45,576
+Hang on.
+We're going to run a red light.
+
+580
+00:41:45,653 --> 00:41:47,814
+- Ah! Ah!
+
+581
+00:41:56,297 --> 00:42:00,256
+Hack into the London Police database
+and get a picture from that traffic cam.
+
+582
+00:42:00,368 --> 00:42:02,996
+- Okey-dokey.
+- You can't do it?
+
+583
+00:42:03,037 --> 00:42:05,904
+No, I can. I just don't like
+that you assume that I can.
+
+584
+00:42:05,974 --> 00:42:08,534
+Why, thank you, Riley.
+
+585
+00:42:31,632 --> 00:42:32,758
+Get it!
+
+586
+00:42:35,937 --> 00:42:37,131
+Stop! Stop!
+
+587
+00:42:58,159 --> 00:43:00,024
+- He's got it.
+- What is it?
+
+588
+00:43:00,094 --> 00:43:00,595
+I don't know, but it's ours. Let's go.
+
+589
+00:43:00,595 --> 00:43:02,495
+I don't know, but it's ours. Let's go.
+
+590
+00:43:11,072 --> 00:43:13,734
+- Abigail!
+- Hey, Patrick.
+
+591
+00:43:14,909 --> 00:43:16,900
+Nice to see you two together again.
+
+592
+00:43:16,978 --> 00:43:19,173
+- Yeah, well, we're not.
+- Yeah.
+
+593
+00:43:19,247 --> 00:43:22,705
+Oh, I was hoping to get some
+of these boxes out of the house.
+
+594
+00:43:31,826 --> 00:43:35,887
+I can't read the whole thing,
+but I can tell you that
+
+595
+00:43:35,963 --> 00:43:39,455
+these are definitely pre-colonial
+Native American markings.
+
+596
+00:43:39,534 --> 00:43:42,935
+- Easily 500 years old.
+- Easily.
+
+597
+00:43:46,874 --> 00:43:49,707
+I can identify one symbol.
+
+598
+00:43:50,244 --> 00:43:52,838
+Look at this.
+Do you know what that is?
+
+599
+00:43:52,914 --> 00:43:54,882
+Sacred calendrical? I don't know.
+
+600
+00:43:55,349 --> 00:43:57,909
+That symbol is Cibola.
+
+601
+00:43:58,719 --> 00:43:59,845
+That's Cibola.
+
+602
+00:44:01,355 --> 00:44:03,255
+The City of Gold.
+
+603
+00:44:03,858 --> 00:44:05,120
+The City of Gold.
+
+604
+00:44:08,096 --> 00:44:12,123
+"ln 1527, a Spanish ship
+wrecked on the Florida coast.
+
+605
+00:44:12,200 --> 00:44:14,065
+There were only four survivors.
+
+606
+00:44:14,135 --> 00:44:19,129
+One was a slave named Estebn
+who saved a local tribe's dying chief.
+
+607
+00:44:19,207 --> 00:44:22,040
+As a reward,
+he was taken to their sacred city,
+
+608
+00:44:22,110 --> 00:44:24,010
+a city built from solid gold.
+
+609
+00:44:25,980 --> 00:44:30,041
+Later, when Estebn tried to find
+the city again, he never could.
+
+610
+00:44:30,118 --> 00:44:35,750
+But the legend grew, and every explorer
+came to the New World in search of it.
+
+611
+00:44:36,691 --> 00:44:40,650
+When General Custer's search for gold
+ended with his last stand
+
+612
+00:44:40,728 --> 00:44:45,165
+at Little Bighorn, it became clear
+none would ever find it"
+
+613
+00:44:50,805 --> 00:44:55,538
+Ben, can you imagine if the Confederates
+got their hands on the City of Gold...
+
+614
+00:44:56,277 --> 00:44:57,744
+My God.
+
+615
+00:44:58,679 --> 00:45:00,271
+I'm going to go talk to her.
+
+616
+00:45:04,152 --> 00:45:06,552
+- You're coming with me.
+- No!
+
+617
+00:45:06,621 --> 00:45:10,887
+- Hey. No one else can translate it.
+- There are others.
+
+618
+00:45:10,958 --> 00:45:12,323
+There are several others.
+
+619
+00:45:12,393 --> 00:45:14,725
+For ancient Native American?
+No one better.
+
+620
+00:45:14,795 --> 00:45:17,787
+- Who?
+- Look, Ben, I can't go with you.
+
+621
+00:45:17,865 --> 00:45:21,062
+- It's been, what? Twenty-five years.
+- Thirty-two.
+
+622
+00:45:22,737 --> 00:45:23,965
+That long?
+
+623
+00:45:24,705 --> 00:45:28,402
+There's a reason
+why we haven't spoken in 32 years.
+
+624
+00:45:28,476 --> 00:45:31,172
+- We have nothing in common.
+- Me?
+
+625
+00:45:31,846 --> 00:45:35,680
+Yes, of course. And I'm sure
+she's just as proud of you as I am.
+
+626
+00:45:35,750 --> 00:45:38,150
+- Who?
+- His mom.
+
+627
+00:45:41,122 --> 00:45:45,252
+- Will you relax? It's gonna be fine.
+- Sure. Should look at the bright side.
+
+628
+00:45:45,326 --> 00:45:49,092
+Been a long time. Maybe she
+lost her memory, won't recognize me.
+
+629
+00:45:49,931 --> 00:45:51,330
+I hate her!
+
+630
+00:45:53,334 --> 00:45:54,858
+We're in the right place.
+
+631
+00:45:58,005 --> 00:46:01,168
+I'm gonna take myself
+out of the line of fire for this one.
+
+632
+00:46:01,242 --> 00:46:03,073
+- Hi, Mom.
+- Benjamin!
+
+633
+00:46:03,144 --> 00:46:06,307
+Abigail! What a surprise!
+Hello, sweetheart.
+
+634
+00:46:06,380 --> 00:46:07,369
+Hi.
+
+635
+00:46:08,616 --> 00:46:09,605
+Oh.
+
+636
+00:46:11,319 --> 00:46:14,811
+You see? One syllable,
+a knife in the heart.
+
+637
+00:46:14,889 --> 00:46:16,754
+- Oh, no.
+- She can do that.
+
+638
+00:46:16,824 --> 00:46:19,691
+I can also track the whereabouts
+of my toothbrush.
+
+639
+00:46:19,760 --> 00:46:22,752
+I was not the one that left
+the toothbrushes in Marrakech.
+
+640
+00:46:22,830 --> 00:46:25,799
+I stowed them both
+in the travel case, as instructed.
+
+641
+00:46:25,866 --> 00:46:29,996
+Yes, and you also insisted
+on loading the luggage into the taxi.
+
+642
+00:46:30,071 --> 00:46:33,165
+- Didn't insist. I loaded the luggage.
+- Not the travel case.
+
+643
+00:46:33,241 --> 00:46:36,438
+Travel case is not luggage.
+The case goes into the luggage.
+
+644
+00:46:36,510 --> 00:46:39,877
+- Who was in charge of packing?
+- I couldn't get the case into
+
+645
+00:46:39,947 --> 00:46:43,007
+the luggage. It was full
+with that stupid rug you bought.
+
+646
+00:46:43,084 --> 00:46:45,177
+You thought it had secret stitching.
+
+647
+00:46:45,253 --> 00:46:47,687
+- How stupid was that?
+- Did have stitching.
+
+648
+00:46:47,755 --> 00:46:51,122
+- Six phony green leather suitcases...
+- Mom.
+
+649
+00:46:53,427 --> 00:46:55,418
+I need you to take a look at this.
+
+650
+00:46:56,597 --> 00:46:59,122
+- What is that a picture of?
+- It's interesting.
+
+651
+00:46:59,233 --> 00:47:01,724
+- We think it might be Olmec.
+- It is.
+
+652
+00:47:03,004 --> 00:47:05,529
+Yes, yes, definitely proto-Zoquean.
+
+653
+00:47:05,606 --> 00:47:08,769
+We were hoping
+that you could translate it.
+
+654
+00:47:09,510 --> 00:47:11,102
+Yes, of course you were.
+
+655
+00:47:13,948 --> 00:47:17,281
+Oh, this doesn't involve
+another treasure hunt, does it?
+
+656
+00:47:17,351 --> 00:47:20,149
+Mom, this is actually very important.
+
+657
+00:47:22,123 --> 00:47:24,557
+All right. What have we got here?
+
+658
+00:47:25,293 --> 00:47:29,992
+This... this glyph here,
+that means "bird". And that means...
+
+659
+00:47:35,936 --> 00:47:37,062
+Uh, "noble bird"
+
+660
+00:47:37,138 --> 00:47:40,335
+"Find the noble bird,
+let him take you by the hand
+
+661
+00:47:40,408 --> 00:47:43,673
+and give you passage
+to the sacred temple"
+
+662
+00:47:50,384 --> 00:47:53,547
+Oh, you think this is a treasure map
+for Cibola, don't you?
+
+663
+00:47:54,088 --> 00:47:55,953
+Well, that is exactly what it is.
+
+664
+00:47:56,023 --> 00:48:00,153
+No, this glyph doesn't mean "Cibola"
+It means "the center of the world"
+
+665
+00:48:00,261 --> 00:48:04,129
+You know, you used to like it. She
+fell in love with me on a treasure hunt.
+
+666
+00:48:04,165 --> 00:48:07,896
+That was not love. That was
+excitement, adrenaline and tequila.
+
+667
+00:48:07,968 --> 00:48:09,765
+- Mom...
+- I was trying to get course credit.
+
+668
+00:48:09,837 --> 00:48:13,364
+Treasure hunting paid off,
+in case you haven't read the papers.
+
+669
+00:48:13,441 --> 00:48:15,602
+Had nothing to do with you.
+That was Ben.
+
+670
+00:48:15,676 --> 00:48:17,974
+Ben found the treasure.
+You did nothing.
+
+671
+00:48:18,045 --> 00:48:22,948
+Patrick, Emily, please. Can we
+just figure out what's on the page?
+
+672
+00:48:25,586 --> 00:48:27,247
+Well, that's it, I'm afraid.
+
+673
+00:48:27,955 --> 00:48:32,153
+These glyphs are only partials.
+So you only have half a treasure map.
+
+674
+00:48:33,294 --> 00:48:34,556
+I'm sorry.
+
+675
+00:48:35,363 --> 00:48:36,830
+Not that I'm surprised.
+
+676
+00:48:38,899 --> 00:48:41,390
+At least we know
+where the rest of the map is.
+
+677
+00:48:42,036 --> 00:48:43,367
+What?
+
+678
+00:48:43,871 --> 00:48:46,203
+You know where it is?
+Why didn't you tell me?
+
+679
+00:48:46,273 --> 00:48:48,935
+Obviously you have
+a tendency to overreact!
+
+680
+00:48:52,613 --> 00:48:55,514
+- I'm sorry.
+- So am I.
+
+681
+00:48:55,583 --> 00:48:57,073
+So where is it?
+
+682
+00:48:57,184 --> 00:49:01,780
+lnscription on the statue in Paris said,
+"These twins stand resolute"
+
+683
+00:49:01,822 --> 00:49:05,349
+We think the map's divided
+between the two Resolute desks.
+
+684
+00:49:05,426 --> 00:49:08,953
+The Resolute desk.
+The Resolute desk?
+
+685
+00:49:09,029 --> 00:49:10,929
+President's desk?
+
+686
+00:49:11,565 --> 00:49:13,328
+The president. What president?
+
+687
+00:49:13,401 --> 00:49:16,336
+- Our President?
+- Unfortunately, yes.
+
+688
+00:49:16,404 --> 00:49:17,928
+But that means...
+
+689
+00:49:18,005 --> 00:49:19,336
+Wait, so we have to...
+
+690
+00:49:20,641 --> 00:49:21,801
+The White House?
+
+691
+00:49:23,144 --> 00:49:26,671
+The Oval Office... to be exact.
+
+692
+00:49:29,283 --> 00:49:31,080
+Why would I overreact to that?
+
+693
+00:49:35,756 --> 00:49:39,590
+- That's not what I signed on for.
+- Could we focus on the issue at hand?
+
+694
+00:49:41,729 --> 00:49:42,718
+Thank you.
+
+695
+00:49:46,667 --> 00:49:48,658
+It's early, pre-Columbian.
+
+696
+00:49:48,736 --> 00:49:51,000
+- Can you translate it?
+- Are you kidding?
+
+697
+00:49:51,071 --> 00:49:54,370
+This is an extinct,
+exceedingly rare language.
+
+698
+00:49:54,442 --> 00:49:57,240
+Only a handful of people
+study these languages.
+
+699
+00:49:57,311 --> 00:49:58,710
+Where are we to find them?
+
+700
+00:49:59,413 --> 00:50:02,780
+Universities, I suppose.
+But you don't have the whole thing.
+
+701
+00:50:02,850 --> 00:50:03,839
+What do you mean?
+
+702
+00:50:04,585 --> 00:50:08,146
+These glyphs here... they're cut off.
+
+703
+00:50:08,222 --> 00:50:11,392
+There's more to the map?
+How are we going to find that?
+
+704
+00:50:11,392 --> 00:50:14,327
+We won't have to.
+Gates will get it somehow.
+
+705
+00:50:14,662 --> 00:50:19,065
+The Resolute desk is near
+the south wall in the Oval Office.
+
+706
+00:50:19,133 --> 00:50:21,328
+Look at this. Look.
+
+707
+00:50:21,402 --> 00:50:23,267
+Small door on the front of the desk.
+
+708
+00:50:23,337 --> 00:50:26,795
+FDR had that put in so
+guests couldn't see his wheelchair.
+
+709
+00:50:26,874 --> 00:50:29,775
+- But...
+- Guys, take a look at this.
+
+710
+00:50:31,612 --> 00:50:33,045
+This could work.
+
+711
+00:50:33,113 --> 00:50:36,844
+I believe it's time for you to make
+a date with your new boyfriend.
+
+712
+00:50:38,219 --> 00:50:39,379
+I think you're right.
+
+713
+00:50:41,355 --> 00:50:45,917
+We hope you're enjoying
+the White House Easter Egg Roll.
+
+714
+00:50:45,993 --> 00:50:50,089
+Face painting continues at 2:00
+near the south fountain.
+
+715
+00:50:51,565 --> 00:50:55,126
+- That Connor in the bunny suit?
+- Thank you.
+
+716
+00:50:55,202 --> 00:50:58,330
+I've never been to an Easter Egg Roll.
+It's kind of sweet.
+
+717
+00:50:58,439 --> 00:51:00,066
+Yeah, I love it.
+
+718
+00:51:01,609 --> 00:51:05,807
+I know you. Your great-great-grandfather
+killed President Lincoln.
+
+719
+00:51:05,880 --> 00:51:08,246
+No. That would be John Wilkes Booth.
+
+720
+00:51:08,315 --> 00:51:10,476
+Eisenschiml says that Booth was a tool
+
+721
+00:51:10,551 --> 00:51:13,987
+in a greater conspiracy
+that involved men in Lincoln's Cabinet.
+
+722
+00:51:14,054 --> 00:51:16,420
+Absurd.
+Eisenschiml's book is filled with
+
+723
+00:51:16,490 --> 00:51:19,459
+- spotty research and false assumptions.
+- Oh, yeah?
+
+724
+00:51:19,527 --> 00:51:22,655
+Explain why Lincoln's bodyguard
+left his post that night?
+
+725
+00:51:22,730 --> 00:51:26,131
+Because President Lincoln
+was never accompanied by guards
+
+726
+00:51:26,200 --> 00:51:29,727
+when attending the theater. Listening?
+Especially on Good Friday.
+
+727
+00:51:29,803 --> 00:51:32,772
+Explain why all the bridges
+out of Washington were closed
+
+728
+00:51:32,840 --> 00:51:36,003
+except one,
+the one Booth needed to escape?
+
+729
+00:51:36,076 --> 00:51:39,045
+OK, run along now,
+you impossible child. Run along.
+
+730
+00:51:40,681 --> 00:51:43,241
+What is going on
+with the education in America?
+
+731
+00:51:43,317 --> 00:51:46,286
+- Hey! Hey!
+- Connor!
+
+732
+00:51:46,353 --> 00:51:48,821
+- I'm so glad you decided to come...
+- Hey.
+
+733
+00:51:48,889 --> 00:51:51,449
+- ...with Gates.
+- Connor.
+
+734
+00:51:51,525 --> 00:51:53,584
+- We just ran into each other.
+- Oh.
+
+735
+00:51:57,565 --> 00:51:59,157
+Aren't you going to ask him?
+
+736
+00:51:59,233 --> 00:52:00,723
+- Ask me what?
+- Nothing.
+
+737
+00:52:00,801 --> 00:52:03,929
+- No, really. What?
+- I really wouldn't want to impose.
+
+738
+00:52:04,438 --> 00:52:09,137
+Well, what she means is
+she doesn't think you can.
+
+739
+00:52:09,209 --> 00:52:12,337
+- Doesn't think I can what?
+- She wants to see the Oval Office.
+
+740
+00:52:12,413 --> 00:52:16,281
+- No. That is way too much to ask.
+- No, it's, uh...
+
+741
+00:52:18,218 --> 00:52:19,480
+- I can do that.
+- Really?
+
+742
+00:52:19,553 --> 00:52:20,542
+You see?
+
+743
+00:52:21,188 --> 00:52:22,519
+- You can?
+- Yeah.
+
+744
+00:52:22,590 --> 00:52:26,890
+That is so cool, Connor. I have
+always wanted to see the Oval Office.
+
+745
+00:52:26,961 --> 00:52:28,622
+Connor rocks.
+
+746
+00:52:29,296 --> 00:52:32,322
+Well... here we are.
+
+747
+00:52:32,399 --> 00:52:34,765
+- Mm.
+- Wow.
+
+748
+00:52:35,202 --> 00:52:39,468
+Empire furnishings
+and crenellated molding. Love it.
+
+749
+00:52:39,540 --> 00:52:41,371
+Hm.
+
+750
+00:52:41,442 --> 00:52:44,343
+Amazing feeling, isn't it,
+standing in here?
+
+751
+00:52:44,411 --> 00:52:47,403
+- Yes. Amazing, huh?
+- Oh, could...
+
+752
+00:52:47,481 --> 00:52:48,607
+Oh. Sorry.
+
+753
+00:52:51,251 --> 00:52:54,880
+Oh, that's, uh... The Resolute desk.
+
+754
+00:52:55,556 --> 00:52:58,616
+Might recognize it from
+the photo of young JFK Junior
+
+755
+00:52:58,726 --> 00:53:01,286
+playing underneath
+while his father was working.
+
+756
+00:53:01,328 --> 00:53:03,228
+- Wonderful.
+- Yeah.
+
+757
+00:53:03,297 --> 00:53:06,198
+But many people don't know
+
+758
+00:53:06,266 --> 00:53:09,724
+that this desk has a twin
+that sits in Buckingham Palace.
+
+759
+00:53:09,803 --> 00:53:11,828
+- Isn't that something?
+- Who knew?
+
+760
+00:53:11,905 --> 00:53:14,169
+Every president since
+Rutherford B. Hayes
+
+761
+00:53:14,241 --> 00:53:17,176
+has used that desk,
+except, uh, Johnson and Nixon.
+
+762
+00:53:17,244 --> 00:53:18,711
+And Ford, of course.
+
+763
+00:53:18,846 --> 00:53:21,280
+- Uh, no.
+- Uh, yes.
+
+764
+00:53:21,348 --> 00:53:23,373
+- No.
+- Yes.
+
+765
+00:53:23,450 --> 00:53:26,180
+Abigail! Did you lose an earring?
+
+766
+00:53:27,054 --> 00:53:29,887
+Oh! I... I did, yes.
+
+767
+00:53:29,957 --> 00:53:33,222
+Connor, these were given to me
+by my grandmother.
+
+768
+00:53:33,293 --> 00:53:37,093
+I suppose we should look for it.
+Wouldn't want anyone finding an earring
+
+769
+00:53:37,164 --> 00:53:40,099
+that doesn't belong
+to the first lady in the Oval Office.
+
+770
+00:53:40,167 --> 00:53:41,532
+- Yes.
+- Excellent point,
+
+771
+00:53:41,602 --> 00:53:43,900
+considering we're not
+supposed to be here.
+
+772
+00:53:43,971 --> 00:53:47,202
+- Yeah.
+- Why don't we, um, go over here
+
+773
+00:53:47,274 --> 00:53:48,605
+and check it out?
+
+774
+00:53:50,377 --> 00:53:52,311
+I'll check over here.
+
+775
+00:54:01,288 --> 00:54:03,848
+- Do you think it fell down here?
+- Yes.
+
+776
+00:54:10,464 --> 00:54:13,900
+- Maybe here.
+- Probably.
+
+777
+00:54:21,975 --> 00:54:23,636
+Oh, no.
+
+778
+00:54:28,982 --> 00:54:32,816
+- You did sit on the sofa.
+- Oh, the bunnies.
+
+779
+00:54:38,192 --> 00:54:39,853
+Connor!
+
+780
+00:54:39,927 --> 00:54:44,091
+- You found it.
+- I did.
+
+781
+00:54:54,007 --> 00:54:55,998
+Thank you so much!
+
+782
+00:54:56,443 --> 00:54:57,910
+Uh...
+
+783
+00:54:58,746 --> 00:55:01,544
+You're just the best. Mm.
+
+784
+00:55:05,586 --> 00:55:06,678
+Mm!
+
+785
+00:55:12,259 --> 00:55:13,590
+Mm!
+
+786
+00:55:14,394 --> 00:55:15,656
+Mm!
+
+787
+00:55:20,334 --> 00:55:21,494
+Thank you.
+
+788
+00:55:24,738 --> 00:55:24,905
+OK.
+
+789
+00:55:24,905 --> 00:55:25,735
+OK.
+
+790
+00:55:28,308 --> 00:55:30,572
+- Empty.
+- Someone must've taken it.
+
+791
+00:55:30,644 --> 00:55:34,239
+Brightest men in our country sat
+at that desk for over a hundred years.
+
+792
+00:55:34,314 --> 00:55:36,441
+- Look.
+- Course one of 'em found the map.
+
+793
+00:55:36,517 --> 00:55:40,009
+- A symbol stamped into the wood.
+- The Presidential Seal.
+
+794
+00:55:40,087 --> 00:55:41,987
+It's not the Presidential Seal.
+
+795
+00:55:42,055 --> 00:55:45,718
+The eagle's holding a scroll
+instead of olive branches.
+
+796
+00:55:45,793 --> 00:55:48,694
+- I'm not sure what this is.
+- What do we do?
+
+797
+00:55:48,762 --> 00:55:50,354
+Did none of you read my book?
+
+798
+00:55:52,266 --> 00:55:54,530
+The eagle clutching the scroll.
+
+799
+00:55:54,902 --> 00:55:56,699
+- Do you know what it means?
+- Yeah.
+
+800
+00:55:56,770 --> 00:55:58,897
+But it's not something I could tell you.
+
+801
+00:55:59,973 --> 00:56:03,909
+It's something that
+I have to show you... in my book.
+
+802
+00:56:10,217 --> 00:56:13,914
+- You didn't even open it?
+- I was moving.
+
+803
+00:56:13,987 --> 00:56:15,545
+Chapter 13.
+
+804
+00:56:20,360 --> 00:56:24,626
+- "The President's Secret Book"?
+- "The President's Secret Book"
+
+805
+00:56:24,698 --> 00:56:28,862
+It happens to be a collection
+of documents for presidents
+
+806
+00:56:28,936 --> 00:56:32,337
+by presidents,
+and for presidents' eyes only.
+
+807
+00:56:32,739 --> 00:56:36,140
+And I'm not just talking about
+JFK here, guys.
+
+808
+00:56:36,210 --> 00:56:40,647
+The 18 and a half missing minutes
+of the Watergate tapes.
+
+809
+00:56:41,348 --> 00:56:45,444
+Did the Apollo really land
+on the moon? Did it? Did it?
+
+810
+00:56:45,519 --> 00:56:49,478
+And the coup de grce... Area 51.
+
+811
+00:56:49,556 --> 00:56:52,684
+Come on, Riley. That's...
+that's an urban legend.
+
+812
+00:56:52,759 --> 00:56:55,694
+Is it, Abigail? Is it?
+
+813
+00:56:56,730 --> 00:56:57,924
+It's just totally...
+
+814
+00:56:58,031 --> 00:56:59,259
+- Crazy?
+- Yeah.
+
+815
+00:56:59,299 --> 00:57:04,100
+Hm. 'Cause last time I checked,
+we pretty much make our living on crazy.
+
+816
+00:57:04,171 --> 00:57:07,334
+- He's got a point.
+- I guess so.
+
+817
+00:57:08,942 --> 00:57:09,966
+Same symbol.
+
+818
+00:57:10,043 --> 00:57:13,444
+Released in '66 under
+the Freedom of lnformation Act.
+
+819
+00:57:13,513 --> 00:57:15,242
+The eagle and the scroll,
+
+820
+00:57:15,315 --> 00:57:19,581
+the secret symbol
+in the President's Book.
+
+821
+00:57:19,653 --> 00:57:22,451
+So you're saying that
+whatever was on that plank
+
+822
+00:57:22,522 --> 00:57:25,423
+is now in the President's Secret Book?
+
+823
+00:57:27,728 --> 00:57:29,127
+Ben.
+
+824
+00:57:29,796 --> 00:57:31,889
+If it was you trying to convince me...
+
+825
+00:57:32,799 --> 00:57:36,394
+...you'd have less evidence,
+and I'd already believe you by now.
+
+826
+00:57:41,108 --> 00:57:42,837
+The eagle with the scroll?
+
+827
+00:57:45,212 --> 00:57:47,612
+Conspiracy theorists like to believe
+
+828
+00:57:47,681 --> 00:57:50,548
+that it's the symbol
+for the President's Secret Book.
+
+829
+00:57:50,617 --> 00:57:52,209
+You bought Riley's book.
+
+830
+00:57:52,286 --> 00:57:55,687
+Your friend writes a book
+about government conspiracies.
+
+831
+00:57:55,756 --> 00:57:58,224
+- You don't think we know about it?
+- But is it true?
+
+832
+00:57:58,325 --> 00:58:00,725
+Does the President have a secret book?
+
+833
+00:58:07,634 --> 00:58:08,896
+Do you like ducks?
+
+834
+00:58:12,372 --> 00:58:13,566
+There is a book.
+
+835
+00:58:15,108 --> 00:58:16,905
+Why are you telling me out here?
+
+836
+00:58:18,078 --> 00:58:20,546
+Because inside, I'm a federal agent.
+
+837
+00:58:20,614 --> 00:58:22,878
+Out here,
+I'm talking to you as a friend.
+
+838
+00:58:22,950 --> 00:58:27,353
+- Where's the President's Book kept?
+- Only the current president knows.
+
+839
+00:58:27,421 --> 00:58:30,015
+The book is passed
+from president to president,
+
+840
+00:58:30,090 --> 00:58:32,354
+and each one chooses
+his own hiding place.
+
+841
+00:58:32,426 --> 00:58:34,451
+You're the FBl.
+Can't you get it for me?
+
+842
+00:58:34,528 --> 00:58:38,089
+Only way you'll ever see that book
+is if you get elected president.
+
+843
+00:58:39,132 --> 00:58:40,531
+Well, you never know.
+
+844
+00:58:42,402 --> 00:58:44,632
+All I need is a few minutes with him.
+
+845
+00:58:45,505 --> 00:58:47,302
+A few minutes? Really?
+
+846
+00:58:47,374 --> 00:58:49,604
+Even if you were married
+to the President,
+
+847
+00:58:49,676 --> 00:58:51,940
+you wouldn't be able
+to get a few minutes.
+
+848
+00:58:52,012 --> 00:58:55,004
+Not when he's surrounded by handlers.
+If I get him alone...
+
+849
+00:58:55,082 --> 00:58:57,380
+How do you expect
+to get the President alone?
+
+850
+00:58:57,484 --> 00:59:00,578
+Before the Civil War,
+the states were all separate.
+
+851
+00:59:00,921 --> 00:59:04,413
+People used to say,
+"The United States are"
+
+852
+00:59:04,992 --> 00:59:09,793
+Wasn't until the war ended people
+started saying, "The United States is"
+
+853
+00:59:11,631 --> 00:59:16,193
+Under Lincoln... we became one nation.
+
+854
+00:59:16,269 --> 00:59:18,430
+And Lincoln paid for it with his life.
+
+855
+00:59:18,505 --> 00:59:20,996
+- So did Thomas Gates.
+- Right.
+
+856
+00:59:22,142 --> 00:59:23,404
+With his life.
+
+857
+00:59:24,878 --> 00:59:28,871
+So how am I gonna get him alone?
+
+858
+00:59:32,586 --> 00:59:33,848
+I'm gonna kidnap him.
+
+859
+00:59:35,489 --> 00:59:38,481
+I'm gonna kidnap
+the President of the United States.
+
+860
+00:59:42,162 --> 00:59:44,255
+- That's not funny.
+- I'm your father.
+
+861
+00:59:44,331 --> 00:59:47,562
+How do you expect me to respond?
+I can't let you ruin your life.
+
+862
+00:59:47,634 --> 00:59:49,625
+Are you out of your mind?
+
+863
+00:59:49,703 --> 00:59:52,763
+Read my book, and you'd know
+you can't get to that book.
+
+864
+00:59:52,839 --> 00:59:55,239
+Exactly how do you plan on doing this?
+
+865
+00:59:56,576 --> 00:59:58,278
+- I was thinking Mount Vernon.
+- Oh.
+
+866
+00:59:58,278 --> 00:59:59,472
+- I was thinking Mount Vernon.
+- Oh.
+
+867
+00:59:59,546 --> 01:00:01,741
+- What?
+- I'm in.
+
+868
+01:00:01,915 --> 01:00:04,679
+Sir, we have to move the party.
+
+869
+01:00:04,818 --> 01:00:07,651
+Some historian claims
+the Spencer Landmark Hotel
+
+870
+01:00:07,721 --> 01:00:10,212
+was used for Klan meetings
+in the late 1800s.
+
+871
+01:00:10,290 --> 01:00:13,748
+- Anyone know if this is true?
+- I've got the Washington Gazette.
+
+872
+01:00:13,827 --> 01:00:17,923
+They want a quote on, "Is the President
+being insensitive to minority issues?"
+
+873
+01:00:17,998 --> 01:00:21,126
+- Doesn't matter.
+- Get a list of approved alternates.
+
+874
+01:00:21,201 --> 01:00:23,863
+- What do you have?
+- Yeah, I know it's short notice.
+
+875
+01:00:23,937 --> 01:00:27,634
+The pipe burst in the hotel
+that we previously booked.
+
+876
+01:00:27,707 --> 01:00:32,735
+- I... There is water everywhere.
+- A retirement party for 200 people.
+
+877
+01:00:32,813 --> 01:00:35,577
+- Gunston Hall.
+- Monticello is booked.
+
+878
+01:00:35,649 --> 01:00:37,913
+So is Gunston Hall and Tudor Place.
+
+879
+01:00:37,984 --> 01:00:41,351
+The Denby Hotel is available,
+and so is Mount Vernon.
+
+880
+01:00:41,421 --> 01:00:45,585
+- Oh, wow. You are a lifesaver.
+- The Denby is great.
+
+881
+01:00:45,659 --> 01:00:48,856
+Strike that. The Denby was booked.
+Mount Vernon's all we got.
+
+882
+01:00:48,929 --> 01:00:51,124
+Book it before someone else does.
+
+883
+01:00:55,836 --> 01:00:58,430
+And let me say
+what an honor it is to be here
+
+884
+01:00:58,538 --> 01:01:00,836
+and add my happy birthday to you,
+Mr. President.
+
+885
+01:01:31,104 --> 01:01:33,163
+- Good evening, sir.
+- Good evening.
+
+886
+01:01:33,240 --> 01:01:35,902
+Are you aware that you are
+in a restricted area?
+
+887
+01:01:35,976 --> 01:01:38,501
+Yeah, but this is
+where the fish are, son.
+
+888
+01:01:38,578 --> 01:01:42,014
+That may be, but I'm gonna
+need to have you move upriver.
+
+889
+01:01:46,887 --> 01:01:50,220
+Are you aware that according
+to article one, section 25
+
+890
+01:01:50,290 --> 01:01:53,885
+of the Maryland constitution,
+I'm allowed to fish in public water?
+
+891
+01:01:53,960 --> 01:01:58,829
+Are you aware I have the right to detain
+you for the next 48 hours without cause?
+
+892
+01:01:59,533 --> 01:02:03,970
+I am going to go back where
+I came from just as fast as possible.
+
+893
+01:02:11,378 --> 01:02:15,075
+Maybe one day I'll wear this thing
+to a party I was actually invited to.
+
+894
+01:02:24,858 --> 01:02:27,759
+Twenty hundred time check. Station 11.
+
+895
+01:02:27,827 --> 01:02:30,387
+- All clear. Perimeter secure.
+- Hey.
+
+896
+01:02:30,463 --> 01:02:33,796
+You didn't happen to see
+a cute brunette wandering around?
+
+897
+01:02:33,867 --> 01:02:36,961
+- Went to get a drink, she disappeared.
+- No, sir.
+
+898
+01:02:37,704 --> 01:02:39,194
+I've got no game tonight.
+
+899
+01:02:46,012 --> 01:02:50,108
+Good evening, Your Excellency. Hello.
+
+900
+01:02:50,183 --> 01:02:54,210
+Prime Minister, it's a delight
+to have you back in the States.
+
+901
+01:02:54,287 --> 01:02:58,417
+Spread the word, contribution limits
+not enforced on the President's birth...
+
+902
+01:02:58,525 --> 01:03:00,083
+- Happy birthday.
+- Thank you.
+
+903
+01:03:00,126 --> 01:03:03,857
+- Ben Gates. The Templar treasure?
+- Oh, right, Ben Gates. Yeah.
+
+904
+01:03:03,930 --> 01:03:07,195
+- We won't keep you.
+- Thanks so much. Always a pleasure.
+
+905
+01:03:07,267 --> 01:03:11,601
+I can't tell you what a thrill it is
+for me to be invited here tonight, sir.
+
+906
+01:03:11,671 --> 01:03:15,539
+Yeah, you must have
+the Secret Service hopping about now.
+
+907
+01:03:15,609 --> 01:03:16,940
+Sir?
+
+908
+01:03:17,010 --> 01:03:19,069
+Considering your discovered lineage.
+
+909
+01:03:19,145 --> 01:03:21,670
+- Oh, yeah. Oh, that...
+- Carry on.
+
+910
+01:03:21,748 --> 01:03:24,945
+I beg your pardon, sir,
+but I know what a huge admirer you are
+
+911
+01:03:25,018 --> 01:03:29,011
+of George Washington. I thought
+you might want to take a look at this.
+
+912
+01:03:29,089 --> 01:03:30,647
+Have a look at that.
+
+913
+01:03:30,724 --> 01:03:34,319
+This is a map of Mount Vernon
+drawn by George Washington himself.
+
+914
+01:03:34,394 --> 01:03:37,261
+Mr. President,
+that is exactly what it is.
+
+915
+01:03:37,330 --> 01:03:41,096
+- Architectural history major, Yale.
+- I did not know that.
+
+916
+01:03:41,167 --> 01:03:42,964
+It belonged to my great uncle.
+
+917
+01:03:43,036 --> 01:03:45,163
+Got it from the granddaughter
+of a slave, Charlotte.
+
+918
+01:03:45,238 --> 01:03:48,537
+- Happy birthday.
+- Always a pleasure. Thank you so much.
+
+919
+01:03:48,608 --> 01:03:52,169
+Charlotte, who lived here
+and worked here at Mount Vernon.
+
+920
+01:03:52,245 --> 01:03:55,612
+- Yeah.
+- And we're standing right here, sir.
+
+921
+01:03:55,682 --> 01:03:59,948
+This line is an underground tunnel,
+an escape route that was never found.
+
+922
+01:04:00,053 --> 01:04:03,682
+I wonder...
+I wonder if it's still there.
+
+923
+01:04:04,691 --> 01:04:06,852
+- Well...
+
+924
+01:04:06,926 --> 01:04:10,623
+- Only one way to find out, sir.
+- Maybe we should take a look.
+
+925
+01:04:11,398 --> 01:04:12,922
+Are we allowed to do that?
+
+926
+01:04:13,300 --> 01:04:16,701
+I mean, I know you're allowed
+to do that. You're the President.
+
+927
+01:04:16,770 --> 01:04:18,032
+Can I come with you?
+
+928
+01:04:19,639 --> 01:04:22,335
+- You guys are just everywhere.
+- Yes, sir.
+
+929
+01:04:22,409 --> 01:04:24,934
+- Give my friend your flashlight.
+- Thank you.
+
+930
+01:04:26,546 --> 01:04:28,810
+According to this map, it should be...
+
+931
+01:04:29,883 --> 01:04:33,876
+It's one... two. ln here.
+
+932
+01:04:33,953 --> 01:04:35,580
+Yeah, should be in here.
+
+933
+01:04:37,357 --> 01:04:38,619
+- May l?
+- Absolutely.
+
+934
+01:04:38,692 --> 01:04:40,182
+All right.
+
+935
+01:04:43,563 --> 01:04:46,999
+You know, Craig,
+I appreciate you doing your job,
+
+936
+01:04:47,067 --> 01:04:49,058
+but I have no enemies down here.
+
+937
+01:04:49,869 --> 01:04:52,895
+ln the cellar. ln this tiny little room.
+
+938
+01:04:54,207 --> 01:04:55,674
+I'll just wait here, then.
+
+939
+01:05:06,619 --> 01:05:08,143
+Over here.
+
+940
+01:05:11,558 --> 01:05:15,426
+- That's the mark of George Washington.
+- Only it's slightly different.
+
+941
+01:05:15,495 --> 01:05:19,056
+- How?
+- These axes, the angle's off.
+
+942
+01:05:19,999 --> 01:05:25,835
+For it to correspond with the ones on
+the map, it should form a perfect V.
+
+943
+01:05:32,045 --> 01:05:33,239
+OK, what else?
+
+944
+01:05:34,180 --> 01:05:36,080
+The arrowhead...
+
+945
+01:05:38,585 --> 01:05:40,348
+...is sideways.
+
+946
+01:05:48,094 --> 01:05:50,153
+We're all right.
+Don't worry.
+
+947
+01:05:55,568 --> 01:05:56,865
+Look at that.
+
+948
+01:05:57,670 --> 01:05:58,659
+Come on.
+
+949
+01:06:04,911 --> 01:06:05,900
+Mr. President?
+
+950
+01:06:07,480 --> 01:06:10,040
+We have a breach
+in zone nine! There's...
+
+951
+01:06:12,152 --> 01:06:16,452
+- lnform Fairfax, SecTac Channel One!
+- Perimeter detail, lock down all exits!
+
+952
+01:06:17,123 --> 01:06:20,092
+- Gates, what are you doing?
+- I'm sorry, Mr. President.
+
+953
+01:06:20,160 --> 01:06:23,891
+I need to ask you a question,
+which I know you can't answer
+
+954
+01:06:23,963 --> 01:06:26,761
+- unless we're alone.
+- Two coming in!
+
+955
+01:06:27,534 --> 01:06:31,026
+I want a sledgehammer, I want a crowbar,
+I want a jackhammer, now!
+
+956
+01:06:32,572 --> 01:06:34,563
+Tom, alert the Vice President.
+
+957
+01:06:35,775 --> 01:06:38,369
+Mr. President, sometime between 1880,
+
+958
+01:06:38,445 --> 01:06:41,539
+when the Resolute desk
+was placed in the Oval Office,
+
+959
+01:06:41,614 --> 01:06:46,108
+and now, one of our presidents found
+a secret compartment in the desk.
+
+960
+01:06:46,186 --> 01:06:49,952
+Hidden inside was a plank
+with Native American writing on it.
+
+961
+01:06:50,023 --> 01:06:54,790
+A treasure map to Cibola,
+the legendary City of Gold, sir.
+
+962
+01:06:54,861 --> 01:06:57,193
+All this just to ask me
+about a treasure map?
+
+963
+01:06:57,297 --> 01:07:00,664
+That map is a key to proving
+Thomas Gates' innocence.
+
+964
+01:07:00,700 --> 01:07:04,966
+I know for a fact that the plank
+is no longer in the Resolute desk.
+
+965
+01:07:05,038 --> 01:07:06,562
+You've been in my desk too?
+
+966
+01:07:06,639 --> 01:07:09,699
+I believe the whereabouts
+of that plank is now hidden...
+
+967
+01:07:10,543 --> 01:07:12,568
+...in the President's Book, sir.
+
+968
+01:07:15,515 --> 01:07:17,574
+The book known only to our presidents.
+
+969
+01:07:18,685 --> 01:07:21,176
+It contains all of our nation's secrets.
+
+970
+01:07:25,992 --> 01:07:28,722
+That's the most
+ridiculous thing I've ever heard.
+
+971
+01:07:28,795 --> 01:07:34,665
+I saw the seal in the desk, sir.
+I know the map exists.
+
+972
+01:07:36,236 --> 01:07:38,727
+You're not going to tell me
+how to get out of here
+
+973
+01:07:38,805 --> 01:07:42,172
+- unless you get what you want.
+- The way out is that direction,
+
+974
+01:07:42,242 --> 01:07:44,073
+and I'll show you.
+
+975
+01:07:44,143 --> 01:07:46,202
+You don't negotiate very well, do you?
+
+976
+01:07:47,247 --> 01:07:48,475
+No, sir.
+
+977
+01:07:49,115 --> 01:07:50,275
+Mr. President!
+
+978
+01:07:50,350 --> 01:07:52,045
+Where are my sledgehammers?
+
+979
+01:07:57,924 --> 01:07:59,186
+I don't get you, Gates.
+
+980
+01:07:59,325 --> 01:08:02,089
+You do all this,
+you're willing to go to prison,
+
+981
+01:08:02,161 --> 01:08:04,459
+just to clear your ancestor's name.
+
+982
+01:08:05,164 --> 01:08:07,598
+The way out is just down those stairs.
+
+983
+01:08:08,801 --> 01:08:11,770
+Everything I am
+is because of my ancestors, sir.
+
+984
+01:08:12,572 --> 01:08:15,336
+Thomas Gates gave his
+last full measure of devotion
+
+985
+01:08:15,408 --> 01:08:18,002
+to his country to stop the KGC.
+
+986
+01:08:18,077 --> 01:08:21,877
+When someone dies for their country,
+I believe they should be honored.
+
+987
+01:08:21,948 --> 01:08:23,813
+"Last full measure of devotion"?
+
+988
+01:08:24,484 --> 01:08:27,351
+Lincoln is my favorite president, sir.
+No offense.
+
+989
+01:08:28,588 --> 01:08:31,921
+None taken. He's my favorite too.
+
+990
+01:08:33,726 --> 01:08:36,923
+Sir, I know the book exists,
+and my question is,
+
+991
+01:08:36,996 --> 01:08:40,363
+"Will you agree to let me see it?"
+
+992
+01:08:41,000 --> 01:08:43,696
+Even if something like that
+really did exist,
+
+993
+01:08:43,770 --> 01:08:46,671
+why do you think I would
+actually just give it to you?
+
+994
+01:08:47,273 --> 01:08:49,138
+Because it will probably lead us
+
+995
+01:08:49,208 --> 01:08:53,304
+to the discovery of the greatest
+Native American treasure of all time.
+
+996
+01:08:53,947 --> 01:08:56,939
+A huge piece of culture lost.
+
+997
+01:08:57,050 --> 01:09:00,110
+You can give that history
+back to its descendants.
+
+998
+01:09:00,153 --> 01:09:04,351
+And because you're the President
+of the United States, sir.
+
+999
+01:09:04,424 --> 01:09:09,293
+Whether by innate character, or the oath
+you took to defend the Constitution,
+
+1000
+01:09:09,362 --> 01:09:12,263
+or the weight of history
+that falls upon you.
+
+1001
+01:09:12,932 --> 01:09:15,867
+I believe you
+to be an honorable man, sir.
+
+1002
+01:09:17,904 --> 01:09:20,270
+People don't believe that stuff anymore.
+
+1003
+01:09:22,275 --> 01:09:23,799
+They want to believe it.
+
+1004
+01:09:45,999 --> 01:09:50,834
+Nearest highway is that direction.
+You'll understand if we part ways here.
+
+1005
+01:09:55,808 --> 01:09:58,208
+- Gates.
+- Sir?
+
+1006
+01:09:58,277 --> 01:10:01,337
+The following conversation
+never happened.
+
+1007
+01:10:02,715 --> 01:10:04,182
+The book exists.
+
+1008
+01:10:05,351 --> 01:10:07,785
+- Where is it?
+- Where else do you keep a book?
+
+1009
+01:10:07,854 --> 01:10:09,685
+ln the Library of Congress.
+
+1010
+01:10:10,423 --> 01:10:15,122
+X, Y, two, three, four,
+seven, eight, six.
+
+1011
+01:10:15,461 --> 01:10:16,485
+Thank you, sir.
+
+1012
+01:10:17,463 --> 01:10:22,366
+You'll also need to know
+three, seven, nine, four.
+
+1013
+01:10:22,435 --> 01:10:23,732
+Got it.
+
+1014
+01:10:24,804 --> 01:10:28,433
+- And, Gates...
+- Sir?
+
+1015
+01:10:28,975 --> 01:10:33,810
+Two hundred people know you held me
+against my will. I can't tell them why.
+
+1016
+01:10:33,880 --> 01:10:36,212
+Unless you find what you're looking for,
+
+1017
+01:10:36,282 --> 01:10:39,080
+you'll be charged
+with kidnapping the President.
+
+1018
+01:10:39,152 --> 01:10:43,521
+- You know what that means.
+- Yes, sir. Very much so, sir.
+
+1019
+01:10:47,393 --> 01:10:51,056
+- I want you to do something for me.
+- It would be a privilege, sir.
+
+1020
+01:10:51,931 --> 01:10:55,958
+Page 47. Just have a look at that.
+
+1021
+01:10:59,205 --> 01:11:02,402
+Riley, meet me at the
+Library of Congress in 20 minutes.
+
+1022
+01:11:05,111 --> 01:11:06,100
+OK.
+
+1023
+01:11:13,386 --> 01:11:14,375
+Sadusky.
+
+1024
+01:11:17,056 --> 01:11:19,925
+The President's been... what?
+
+1025
+01:11:22,295 --> 01:11:23,284
+Gates.
+
+1026
+01:11:28,367 --> 01:11:30,892
+X-Y-two-three-four-seven-eight-six.
+
+1027
+01:11:30,970 --> 01:11:35,373
+X-Y-two-three-four-seven-eight-six.
+X-Y-two-three-four-seven-eight-six.
+
+1028
+01:11:35,441 --> 01:11:37,068
+- Hey.
+- Hey.
+
+1029
+01:11:37,477 --> 01:11:38,842
+We're close.
+
+1030
+01:11:48,921 --> 01:11:52,413
+- Where do we start?
+- XY is the book classification code.
+
+1031
+01:11:52,492 --> 01:11:55,984
+Stands for special collections,
+which means very special books.
+
+1032
+01:11:56,062 --> 01:11:59,031
+- Where are they?
+- This way. We'll sneak in.
+
+1033
+01:12:21,988 --> 01:12:22,977
+This will be good.
+
+1034
+01:12:25,925 --> 01:12:28,416
+Here we go. XA... XM...
+
+1035
+01:12:34,400 --> 01:12:36,868
+Look. Do you have a code?
+
+1036
+01:12:37,670 --> 01:12:40,002
+Three-seven-nine-four.
+
+1037
+01:12:46,746 --> 01:12:49,044
+What did the President say
+the number was?
+
+1038
+01:12:49,115 --> 01:12:51,310
+Two-three-four-seven-eight-six.
+
+1039
+01:12:59,392 --> 01:13:01,417
+Two-three-six-seven...
+
+1040
+01:13:01,494 --> 01:13:04,554
+X-Y-two-three-three,
+two-three-seven-eight... Here.
+
+1041
+01:13:04,630 --> 01:13:06,291
+Two-three-four-seven-nine-one.
+
+1042
+01:13:06,432 --> 01:13:09,265
+- Two-three-four-seven-nine...
+- Seventy-six, seventy-eight...
+
+1043
+01:13:09,335 --> 01:13:10,632
+It's not there.
+
+1044
+01:13:12,572 --> 01:13:15,234
+Maybe someone checked it out.
+
+1045
+01:13:16,876 --> 01:13:21,040
+- Why send us here if there's no book?
+- He probably wanted us to get caught.
+
+1046
+01:13:30,857 --> 01:13:31,846
+Here.
+
+1047
+01:13:48,407 --> 01:13:51,274
+- What is that?
+- It's a six-dial combination lock.
+
+1048
+01:13:53,346 --> 01:13:55,246
+The location is the combination.
+
+1049
+01:13:56,582 --> 01:13:58,379
+The location is the combination.
+
+1050
+01:14:15,534 --> 01:14:17,502
+Yes. I was right.
+
+1051
+01:14:18,404 --> 01:14:19,803
+Well done, Mr. Poole.
+
+1052
+01:14:26,979 --> 01:14:28,571
+Eagle and the scroll.
+
+1053
+01:14:41,360 --> 01:14:42,884
+- Area 51!
+- Shh!
+
+1054
+01:14:46,032 --> 01:14:48,523
+- Kennedy assassination.
+- Shh! We don't have time.
+
+1055
+01:14:48,601 --> 01:14:50,626
+Yeah, it's true.
+
+1056
+01:14:53,639 --> 01:14:56,301
+Here. Wait.
+
+1057
+01:14:56,375 --> 01:15:00,539
+"April 1865. Queen Victoria
+sends Pike two coded missives.
+
+1058
+01:15:00,646 --> 01:15:05,083
+The first is received.
+Contains information regarding
+
+1059
+01:15:05,117 --> 01:15:08,553
+New World treasure. The City of Gold"
+
+1060
+01:15:09,155 --> 01:15:12,522
+Wait. The queen
+wanted to help the Confederacy?
+
+1061
+01:15:12,591 --> 01:15:16,220
+- A divided America'd have been weaker.
+- Needed cotton from the South.
+
+1062
+01:15:16,295 --> 01:15:19,458
+"The second missive was thought
+to contain a Playfair cipher
+
+1063
+01:15:19,532 --> 01:15:23,468
+suggesting contact with Laboulaye,
+who'll hide clues before his death"
+
+1064
+01:15:23,536 --> 01:15:27,267
+The cipher written into the Booth
+diary page that Thomas tried to burn.
+
+1065
+01:15:27,340 --> 01:15:29,638
+- The one we have.
+- Exactly. "1880.
+
+1066
+01:15:30,409 --> 01:15:34,607
+Resolute desk arrives in Washington,
+sent by queen to President Hayes"
+
+1067
+01:15:36,649 --> 01:15:37,638
+Look at that.
+
+1068
+01:15:39,418 --> 01:15:42,683
+Missing plank from the White House. Wow.
+
+1069
+01:15:44,657 --> 01:15:47,217
+Here's the final entry
+by President Coolidge.
+
+1070
+01:15:47,293 --> 01:15:51,354
+"1924. I found a plank
+in secret desk compartment.
+
+1071
+01:15:51,430 --> 01:15:55,127
+Plank photographed and then destroyed.
+
+1072
+01:15:55,201 --> 01:15:57,999
+Borglum commissioned
+to destroy landmarks
+
+1073
+01:15:58,104 --> 01:16:00,197
+in sacred Black Hills mountains"
+
+1074
+01:16:02,808 --> 01:16:06,437
+Borglum. Mount Rushmore?
+
+1075
+01:16:07,113 --> 01:16:12,107
+He carved Mount Rushmore
+to erase the map's landmarks
+
+1076
+01:16:12,184 --> 01:16:14,652
+in order to protect the City of Gold.
+
+1077
+01:16:15,688 --> 01:16:18,316
+Mount Rushmore was a cover-up.
+
+1078
+01:16:18,391 --> 01:16:21,155
+- What is it?
+
+1079
+01:16:22,728 --> 01:16:26,129
+There's my tax dollars at work,
+coming to arrest me.
+
+1080
+01:16:26,198 --> 01:16:28,826
+Not coming for you,
+they're for me. Go to the car.
+
+1081
+01:16:28,901 --> 01:16:30,801
+- No!
+- Go! I'll meet up with you.
+
+1082
+01:16:31,370 --> 01:16:32,359
+This way.
+
+1083
+01:16:41,213 --> 01:16:43,613
+So Gates abducts the President,
+lets him go
+
+1084
+01:16:43,682 --> 01:16:45,673
+and heads to the Library of Congress?
+
+1085
+01:16:45,751 --> 01:16:48,379
+- Why?
+- Maybe he wants to check out a book.
+
+1086
+01:17:07,807 --> 01:17:09,365
+This way.
+
+1087
+01:17:30,262 --> 01:17:32,730
+All agents...
+
+1088
+01:17:45,444 --> 01:17:47,275
+- Dad.
+- Ben.
+
+1089
+01:17:47,346 --> 01:17:49,610
+Get out of there.
+I had to move the car.
+
+1090
+01:17:49,682 --> 01:17:52,082
+FBl, Secret Service all over the place.
+
+1091
+01:17:52,151 --> 01:17:54,915
+Calm down. I sent a picture
+of the plank to your cell.
+
+1092
+01:17:54,987 --> 01:17:56,921
+- You can do that?
+- Yes, I can do that.
+
+1093
+01:17:57,022 --> 01:17:58,649
+did you get it?
+
+1094
+01:17:59,458 --> 01:18:00,789
+- I got it.
+- Look.
+
+1095
+01:18:02,495 --> 01:18:06,556
+- Take it to Mom for translation.
+- Why me?
+
+1096
+01:18:06,632 --> 01:18:08,691
+He say his mom
+could translate the plank?
+
+1097
+01:18:08,767 --> 01:18:10,667
+Find out who she is.
+
+1098
+01:18:21,881 --> 01:18:24,611
+- How are we going to find Ben?
+- I don't know.
+
+1099
+01:18:24,683 --> 01:18:26,583
+- Hold it! Who are you?
+- We work here.
+
+1100
+01:18:26,652 --> 01:18:28,847
+- lDs.
+- Here. We were told to evacuate.
+
+1101
+01:18:28,921 --> 01:18:30,616
+I don't know what's going on.
+
+1102
+01:18:30,689 --> 01:18:33,283
+- My car's parked...
+- One second I'm reading...
+
+1103
+01:18:33,359 --> 01:18:36,851
+- Special section for...
+- ...a book, then we're rushed out...
+
+1104
+01:18:36,929 --> 01:18:38,487
+- Go ahead.
+- OK. Thank you.
+
+1105
+01:18:38,564 --> 01:18:41,658
+- Thank you for your help, officer.
+- Best of luck.
+
+1106
+01:18:42,168 --> 01:18:44,966
+- Have a good night.
+
+1107
+01:18:48,574 --> 01:18:51,805
+Hey, go
+to the northeast sectors...
+
+1108
+01:18:55,281 --> 01:18:56,612
+Start the car.
+
+1109
+01:18:59,685 --> 01:19:00,845
+Put it in gear.
+
+1110
+01:19:02,855 --> 01:19:04,789
+- Uh-oh.
+- What's the problem?
+
+1111
+01:19:04,857 --> 01:19:05,983
+It's clear. Let's go!
+
+1112
+01:19:06,592 --> 01:19:07,889
+We're going to jail.
+
+1113
+01:19:10,996 --> 01:19:12,759
+I want to run a check...
+
+1114
+01:19:15,668 --> 01:19:16,965
+Get in! Hang on!
+
+1115
+01:19:18,571 --> 01:19:19,799
+Mercedes SUV...
+
+1116
+01:19:19,872 --> 01:19:22,432
+- He's in! Go!
+- Hang on!
+
+1117
+01:19:22,508 --> 01:19:24,135
+Whoa!
+
+1118
+01:19:25,411 --> 01:19:26,503
+OK. We can do this.
+
+1119
+01:19:30,716 --> 01:19:32,843
+Close the barricade, lock it down!
+
+1120
+01:19:32,918 --> 01:19:35,011
+Lock it down!
+
+1121
+01:19:37,723 --> 01:19:39,554
+- Drive, drive, drive!
+- OK.
+
+1122
+01:19:41,727 --> 01:19:43,388
+I don't think so!
+
+1123
+01:19:44,096 --> 01:19:45,324
+Whoa, whoa!
+
+1124
+01:19:49,768 --> 01:19:52,100
+Go, go, go, go, go!
+
+1125
+01:19:52,171 --> 01:19:54,435
+Let's go! Let's go!
+
+1126
+01:19:57,009 --> 01:19:59,500
+That did not turn out
+the way it was supposed to!
+
+1127
+01:19:59,578 --> 01:20:02,240
+- How'd they find us so quick?
+- I'll tell you how.
+
+1128
+01:20:02,314 --> 01:20:05,977
+- The President is a tattletale!
+- Sadusky. He was there.
+
+1129
+01:20:06,051 --> 01:20:08,383
+He knows more about the book
+than I thought.
+
+1130
+01:20:08,454 --> 01:20:11,055
+How'd the President
+feel about being kidnapped?
+
+1131
+01:20:11,724 --> 01:20:12,816
+He was OK.
+
+1132
+01:20:19,233 --> 01:20:22,168
+- Dr. Appleton.
+- This office is closed. I'm sorry.
+
+1133
+01:20:22,236 --> 01:20:24,704
+I do apologize
+for the lateness of the hour.
+
+1134
+01:20:26,073 --> 01:20:28,268
+My name is Mitch Wilkinson.
+
+1135
+01:20:28,342 --> 01:20:31,971
+I've got something I want you
+to take a look at. Just take a minute.
+
+1136
+01:20:39,753 --> 01:20:42,051
+- You're a treasure hunter.
+- No, ma'am.
+
+1137
+01:20:42,122 --> 01:20:44,886
+I'm just a man trying
+to make his mark on history.
+
+1138
+01:20:45,426 --> 01:20:46,757
+Can you help me?
+
+1139
+01:20:48,162 --> 01:20:52,428
+Um... No, I don't know that language.
+I'm sorry. I can't help you.
+
+1140
+01:20:52,533 --> 01:20:55,058
+- Oh, excuse me.
+
+1141
+01:20:58,205 --> 01:20:59,297
+Yes.
+
+1142
+01:21:00,908 --> 01:21:02,375
+Got it.
+
+1143
+01:21:02,977 --> 01:21:06,743
+Your ex-husband's on his way up.
+He wants the translation.
+
+1144
+01:21:08,182 --> 01:21:13,347
+Tell him anything but the truth.
+Get rid of him. His life depends on it.
+
+1145
+01:21:22,997 --> 01:21:24,555
+Emily?
+
+1146
+01:21:37,278 --> 01:21:39,508
+I know I'm the last person
+you want to see,
+
+1147
+01:21:39,580 --> 01:21:44,847
+and I'm not comfortable either,
+but we need you to translate something.
+
+1148
+01:21:46,620 --> 01:21:50,852
+- Ben sent me. He needs your help.
+- Yes, of course.
+
+1149
+01:21:52,159 --> 01:21:54,150
+If it's for Ben, of course. What is it?
+
+1150
+01:21:55,229 --> 01:21:57,561
+Oh. Uh...
+
+1151
+01:21:57,631 --> 01:22:00,395
+It's in the cell phone.
+I'm not sure how to...
+
+1152
+01:22:00,467 --> 01:22:02,458
+- Give it to me.
+- ...bring it out.
+
+1153
+01:22:10,344 --> 01:22:12,744
+We know it leads to Mount Rushmore.
+
+1154
+01:22:16,817 --> 01:22:20,014
+Yes. "Islands...
+Islands of stone in a sea of grass"
+
+1155
+01:22:20,087 --> 01:22:24,717
+That's what the Lakota used to call
+the Black Hills in South Dakota.
+
+1156
+01:22:25,426 --> 01:22:26,415
+Right.
+
+1157
+01:22:29,697 --> 01:22:34,100
+"Find where the moon touches the earth
+and release the hummingbird"
+
+1158
+01:22:38,672 --> 01:22:39,730
+That's it?
+
+1159
+01:22:47,348 --> 01:22:51,682
+Did it ever occur to you...?
+I can't believe I'm saying this.
+
+1160
+01:22:52,886 --> 01:22:56,822
+Did it ever occur to you that I did
+the things I did to impress you?
+
+1161
+01:22:59,593 --> 01:23:03,461
+No, you did it because you wanted to,
+and I would've done the same thing,
+
+1162
+01:23:03,530 --> 01:23:06,863
+except one of us had to grow up
+and stay home and look after Ben.
+
+1163
+01:23:06,934 --> 01:23:08,925
+Certainly wasn't going to be you.
+
+1164
+01:23:09,803 --> 01:23:14,263
+Did it ever occur to you that I made
+sacrifices for us that you never did?
+
+1165
+01:23:16,877 --> 01:23:18,435
+No, of course not.
+
+1166
+01:23:18,912 --> 01:23:20,743
+So just go away.
+
+1167
+01:23:34,828 --> 01:23:36,318
+Lousy tequila.
+
+1168
+01:23:40,901 --> 01:23:43,131
+Don't feel bad. You did good.
+
+1169
+01:23:43,203 --> 01:23:45,262
+Patrick believed every word you said.
+
+1170
+01:23:45,339 --> 01:23:48,900
+Besides, your son would have
+never found the treasure anyway.
+
+1171
+01:23:48,976 --> 01:23:50,807
+You don't know Benjamin.
+
+1172
+01:23:50,878 --> 01:23:54,439
+Perhaps not.
+But then again, I have this.
+
+1173
+01:23:58,085 --> 01:24:02,954
+A letter from Queen Victoria to
+the Confederate General Albert Pike?
+
+1174
+01:24:03,023 --> 01:24:07,289
+Seems the dear old queen
+was partial to the Confederate cause.
+
+1175
+01:24:07,995 --> 01:24:10,930
+This has been handed down
+by my family for 140 years.
+
+1176
+01:24:11,765 --> 01:24:16,065
+Contains a vital piece of information.
+The final clue, as it were.
+
+1177
+01:24:16,136 --> 01:24:22,006
+This piece of information is worthless
+without your translation of the planks.
+
+1178
+01:24:23,510 --> 01:24:25,273
+It's ironic, isn't it?
+
+1179
+01:24:25,345 --> 01:24:30,112
+This all began with the burning
+of pages, and now it ends
+
+1180
+01:24:30,184 --> 01:24:33,711
+with the burning of this,
+the final clue.
+
+1181
+01:24:34,555 --> 01:24:36,284
+Making me the only one...
+
+1182
+01:24:37,491 --> 01:24:38,192
+...who can find Cibola.
+
+1183
+01:24:38,192 --> 01:24:38,988
+...who can find Cibola.
+
+1184
+01:24:41,261 --> 01:24:42,319
+Get your coat.
+
+1185
+01:24:55,209 --> 01:24:58,201
+Her translation on the second half
+of the planks says
+
+1186
+01:24:58,278 --> 01:25:01,839
+- we need to find an island of stone.
+- Ben would have found it by now.
+
+1187
+01:25:02,249 --> 01:25:03,511
+I don't think so.
+
+1188
+01:25:11,325 --> 01:25:13,156
+How do I get to, um, this...
+
+1189
+01:25:15,028 --> 01:25:16,256
+Hello, Mitch.
+
+1190
+01:25:17,931 --> 01:25:18,989
+Mom...
+
+1191
+01:25:19,066 --> 01:25:21,933
+- Wait for me.
+- No way. You're too slow.
+
+1192
+01:25:22,269 --> 01:25:25,261
+I knew you'd figure out
+the message I gave your father.
+
+1193
+01:25:25,672 --> 01:25:28,641
+The hummingbird was good. Let her go.
+
+1194
+01:25:28,709 --> 01:25:32,440
+We're the ones with the firepower,
+and you're giving me orders.
+
+1195
+01:25:32,513 --> 01:25:36,779
+I kidnapped the President. The FBl
+is on their way right now to arrest me,
+
+1196
+01:25:36,850 --> 01:25:38,875
+and I'm sure they'll love to meet you.
+
+1197
+01:25:38,952 --> 01:25:41,079
+They'll find us both and arrest us both.
+
+1198
+01:25:41,155 --> 01:25:43,885
+That path doesn't lead
+to the City of Gold, does it?
+
+1199
+01:25:44,124 --> 01:25:47,025
+This man has information you need.
+He's got a letter.
+
+1200
+01:25:47,094 --> 01:25:49,460
+From Queen Victoria
+to General Albert Pike.
+
+1201
+01:25:49,530 --> 01:25:52,397
+- How do you know that?
+- I read about it, in a book.
+
+1202
+01:25:55,469 --> 01:25:56,936
+I'm afraid he's burned it.
+
+1203
+01:26:00,240 --> 01:26:04,939
+All right... You've had me do
+all the work so far, why stop now?
+
+1204
+01:26:05,579 --> 01:26:08,912
+You tell me what you know,
+I'll find the City of Gold,
+
+1205
+01:26:08,982 --> 01:26:12,213
+prove Thomas Gates' innocence,
+you can have the treasure.
+
+1206
+01:26:12,286 --> 01:26:14,186
+- What?
+- I'm going with you.
+
+1207
+01:26:14,254 --> 01:26:18,020
+But if anyone's gonna be credited
+for discovering the City of Gold,
+
+1208
+01:26:18,091 --> 01:26:19,353
+it's going to be me.
+
+1209
+01:26:19,426 --> 01:26:22,520
+But your partners stay here,
+and all the guns.
+
+1210
+01:26:22,596 --> 01:26:24,257
+What makes you think I'd agree?
+
+1211
+01:26:25,165 --> 01:26:29,693
+Because you need that treasure.
+Believe me, I know.
+
+1212
+01:26:34,274 --> 01:26:36,504
+All right, Gates. We'll do it your way.
+
+1213
+01:26:39,413 --> 01:26:43,281
+But believe me... I don't need the guns.
+
+1214
+01:26:48,222 --> 01:26:52,022
+- Which president? The President?
+- I thought it best not to tell you.
+
+1215
+01:27:05,339 --> 01:27:09,002
+I still don't see anything
+that looks like a noble bird.
+
+1216
+01:27:10,944 --> 01:27:12,912
+All right. Let's have it.
+
+1217
+01:27:12,980 --> 01:27:17,417
+What did the letter say? What's
+the clue from Queen Victoria's letter?
+
+1218
+01:27:17,484 --> 01:27:22,786
+"The entrance shall only be revealed
+under a cloudless rain"
+
+1219
+01:27:22,856 --> 01:27:24,448
+Figure that one out.
+
+1220
+01:27:24,524 --> 01:27:28,153
+So we come back when it's raining?
+
+1221
+01:27:30,163 --> 01:27:33,997
+"Cloudless" Could simply mean the sun.
+
+1222
+01:27:34,668 --> 01:27:37,660
+You need a sunny day... and rain.
+
+1223
+01:27:39,039 --> 01:27:40,028
+We need water.
+
+1224
+01:27:40,774 --> 01:27:41,934
+Water.
+
+1225
+01:27:52,586 --> 01:27:53,712
+Abigail.
+
+1226
+01:27:54,888 --> 01:27:58,324
+Everybody, the water makes
+the rocks darker. Use the water.
+
+1227
+01:27:58,392 --> 01:27:59,620
+Em? Water?
+
+1228
+01:27:59,693 --> 01:28:03,789
+- What's this in my hand? Are you blind?
+- Good, good, good.
+
+1229
+01:28:15,842 --> 01:28:19,073
+This is ridiculous.
+Are we going to water the whole thing?
+
+1230
+01:28:28,722 --> 01:28:30,189
+That's it.
+
+1231
+01:28:30,257 --> 01:28:34,853
+Oh! That's it. I found it.
+Over here! Found it! Over here!
+
+1232
+01:28:37,064 --> 01:28:38,190
+Look at this!
+
+1233
+01:28:39,733 --> 01:28:40,791
+It's an eagle.
+
+1234
+01:28:42,769 --> 01:28:45,397
+- Look at that. It's an eagle.
+- There it is.
+
+1235
+01:28:45,839 --> 01:28:48,637
+- "The noble bird..."
+- "Will give you passage"
+
+1236
+01:28:48,709 --> 01:28:52,201
+- Uh-huh. Now what?
+- We need to join hands,
+
+1237
+01:28:52,312 --> 01:28:57,181
+and in a noble manner,
+pass over the bird.
+
+1238
+01:28:58,318 --> 01:29:01,845
+- It indicates direction...
+- Somehow that bird...
+
+1239
+01:29:01,922 --> 01:29:05,756
+...will rise from the rock
+and kind of caw...
+
+1240
+01:29:05,826 --> 01:29:10,058
+You can stand around guessing for a
+while, or I can give you the next clue.
+
+1241
+01:29:11,331 --> 01:29:14,232
+"Surrender your hand
+to the heart of the warrior"
+
+1242
+01:29:15,769 --> 01:29:18,101
+And the eagle
+is a symbol of the warrior.
+
+1243
+01:29:23,510 --> 01:29:25,705
+Ben, no. Wait, wait! No.
+
+1244
+01:29:25,779 --> 01:29:28,475
+That's probably a horrible trap.
+Tell him!
+
+1245
+01:29:28,548 --> 01:29:30,106
+It's a horrible trap.
+
+1246
+01:29:30,183 --> 01:29:33,812
+It would be a pity to come this far
+and not even try, now, wouldn't it?
+
+1247
+01:29:35,155 --> 01:29:36,520
+I'll do it, Ben.
+
+1248
+01:29:37,157 --> 01:29:38,146
+It's OK.
+
+1249
+01:29:42,696 --> 01:29:44,561
+Surrender your hand.
+
+1250
+01:30:01,581 --> 01:30:04,675
+- I am sorry. I... I couldn't resist.
+- You!
+
+1251
+01:30:06,920 --> 01:30:10,378
+It, uh... feels like a latch.
+
+1252
+01:30:19,733 --> 01:30:20,927
+Look at this.
+
+1253
+01:30:32,879 --> 01:30:35,609
+All right, good. Let's go.
+
+1254
+01:30:56,002 --> 01:30:57,594
+Oh!
+
+1255
+01:31:01,942 --> 01:31:03,409
+Ben, look at this.
+
+1256
+01:31:04,311 --> 01:31:06,472
+Oh, that's beautiful!
+
+1257
+01:31:10,250 --> 01:31:13,310
+- Patrick. Patrick!
+- Ben, what is that?
+
+1258
+01:31:13,386 --> 01:31:16,378
+Appears to be a counterweight
+to hold the door open.
+
+1259
+01:31:16,456 --> 01:31:18,549
+- What is that sound?
+
+1260
+01:31:18,625 --> 01:31:19,956
+Fascinating.
+
+1261
+01:31:23,597 --> 01:31:25,792
+- Ah!
+
+1262
+01:31:25,866 --> 01:31:26,924
+Ben!
+
+1263
+01:31:37,377 --> 01:31:38,674
+Sorry.
+
+1264
+01:31:38,745 --> 01:31:40,337
+- You OK?
+- No.
+
+1265
+01:31:40,814 --> 01:31:41,803
+Get up.
+
+1266
+01:31:43,650 --> 01:31:44,639
+It's locked.
+
+1267
+01:31:44,718 --> 01:31:49,485
+- Patrick, what have you done?
+- Some kind of a bolt. I didn't do it.
+
+1268
+01:31:49,556 --> 01:31:51,524
+Only one way out of here now.
+
+1269
+01:31:53,593 --> 01:31:54,821
+Forward.
+
+1270
+01:31:59,533 --> 01:32:02,502
+Oh!
+
+1271
+01:32:07,374 --> 01:32:09,808
+Never seen so many relics.
+
+1272
+01:32:09,876 --> 01:32:11,969
+So beautifully preserved.
+
+1273
+01:32:15,315 --> 01:32:17,977
+Looks like we're going
+to be moving some rocks.
+
+1274
+01:32:18,051 --> 01:32:21,487
+- There's a tunnel back in through here.
+- Guys, look at this.
+
+1275
+01:32:24,524 --> 01:32:26,048
+It's a little golden man.
+
+1276
+01:32:28,662 --> 01:32:33,497
+Look. It's got a tiny little torso.
+Look at that. It looks like...
+
+1277
+01:32:46,646 --> 01:32:48,443
+- Ben!
+- Ben!
+
+1278
+01:32:54,187 --> 01:32:57,452
+Move back! Move back!
+All of you! Other side!
+
+1279
+01:33:00,393 --> 01:33:01,519
+Back up! Back up!
+
+1280
+01:33:02,362 --> 01:33:03,522
+Ah!
+
+1281
+01:33:07,901 --> 01:33:09,869
+Riley, move forward! Move forward!
+
+1282
+01:33:11,004 --> 01:33:12,471
+No, back up, back up.
+
+1283
+01:33:14,641 --> 01:33:16,700
+- What you want me to do?
+- Stop! Stop!
+
+1284
+01:33:20,413 --> 01:33:24,110
+We have to balance our weight
+to even this thing out.
+
+1285
+01:33:27,287 --> 01:33:29,346
+- We'll find 'em.
+- What are we gonna do?
+
+1286
+01:33:29,422 --> 01:33:32,152
+Figure something out.
+Tell you what we're going to do.
+
+1287
+01:33:32,225 --> 01:33:34,591
+- No, I'll tell you.
+- No. I'll tell you!
+
+1288
+01:33:34,661 --> 01:33:37,494
+No, I'll tell you!
+There's that passageway.
+
+1289
+01:33:37,564 --> 01:33:41,830
+You go, pull those stones out,
+because that leads somewhere.
+
+1290
+01:33:41,901 --> 01:33:44,028
+That is a good idea.
+
+1291
+01:33:47,574 --> 01:33:50,702
+There's nothing.
+Just a big old black hole.
+
+1292
+01:33:54,614 --> 01:33:57,082
+Ben, look!
+There's a ladder.
+
+1293
+01:33:57,150 --> 01:34:01,211
+- I mean, what's left of a ladder.
+- Toss me the light.
+
+1294
+01:34:03,723 --> 01:34:07,625
+Riley. Move slowly to that corner.
+No! Wait. Just...
+
+1295
+01:34:07,694 --> 01:34:10,822
+- As I move to this corner.
+- OK.
+
+1296
+01:34:12,999 --> 01:34:14,466
+One step at a time. Good.
+
+1297
+01:34:18,838 --> 01:34:21,966
+If we can raise this corner,
+I think I'll reach it.
+
+1298
+01:34:25,545 --> 01:34:27,775
+- Stop! Red light!
+- You're not helping!
+
+1299
+01:34:27,847 --> 01:34:29,906
+I can get up there just as easy as you.
+
+1300
+01:34:32,152 --> 01:34:33,141
+Just stop.
+
+1301
+01:34:34,621 --> 01:34:36,782
+- Guys!
+- It's three against one here.
+
+1302
+01:34:36,856 --> 01:34:40,519
+I ain't going last, and if I'm not
+going last, I might as well go first.
+
+1303
+01:34:41,895 --> 01:34:42,884
+Look!
+
+1304
+01:34:45,765 --> 01:34:47,357
+What's it gonna be?
+
+1305
+01:34:56,810 --> 01:34:58,573
+We'll do this your way.
+
+1306
+01:35:12,625 --> 01:35:16,493
+The rest of us, on my count of three,
+all move together.
+
+1307
+01:35:16,563 --> 01:35:18,053
+One step at a time.
+
+1308
+01:35:18,898 --> 01:35:21,924
+One, two, three.
+
+1309
+01:35:41,254 --> 01:35:42,881
+- You ready?
+- Go.
+
+1310
+01:35:54,501 --> 01:35:55,490
+Ah!
+
+1311
+01:36:16,756 --> 01:36:18,747
+Mitch, what do you see?
+
+1312
+01:36:20,059 --> 01:36:21,617
+Is there a way out?
+
+1313
+01:36:23,229 --> 01:36:24,753
+What's up there, Mitch?
+
+1314
+01:36:36,609 --> 01:36:37,769
+Em?
+
+1315
+01:36:37,844 --> 01:36:43,282
+- Are you all right?
+- Just promise me he's gonna be OK.
+
+1316
+01:36:47,921 --> 01:36:49,013
+All right.
+
+1317
+01:36:50,824 --> 01:36:51,950
+Let's go.
+
+1318
+01:36:52,959 --> 01:36:55,427
+Mitch! Come on!
+
+1319
+01:36:56,196 --> 01:36:58,892
+- I've been doing the math here, and...
+- I know.
+
+1320
+01:36:59,332 --> 01:37:01,766
+We're gonna have to leave
+one person behind.
+
+1321
+01:37:01,835 --> 01:37:03,962
+Promise you'll
+come back for me.
+
+1322
+01:37:04,037 --> 01:37:05,766
+I can do the math too.
+
+1323
+01:37:07,173 --> 01:37:09,835
+- That makes you next.
+- I'll go last.
+
+1324
+01:37:11,544 --> 01:37:16,038
+"No, we'll figure something else out"
+"We need you there. Please, Riley"
+
+1325
+01:37:17,784 --> 01:37:18,944
+I'm just kidding. Go.
+
+1326
+01:37:19,452 --> 01:37:21,010
+OK...
+
+1327
+01:37:49,949 --> 01:37:54,613
+- One... two... three!
+- Go!
+
+1328
+01:37:59,759 --> 01:38:01,124
+Oh!
+
+1329
+01:38:01,761 --> 01:38:03,854
+- What are you doing?
+- Nothing.
+
+1330
+01:38:03,930 --> 01:38:05,488
+Uh!
+
+1331
+01:38:09,435 --> 01:38:10,459
+I can't get it.
+
+1332
+01:38:17,510 --> 01:38:19,501
+Just go! Go now! Go!
+
+1333
+01:38:22,015 --> 01:38:23,880
+- All right, ready?
+- Now!
+
+1334
+01:38:23,950 --> 01:38:26,145
+Ah!
+
+1335
+01:38:26,219 --> 01:38:27,982
+Riley! Hang on!
+
+1336
+01:38:30,990 --> 01:38:35,518
+OK. Mitch, the idol.
+OK, Ben. We found a gold idol here!
+
+1337
+01:38:35,595 --> 01:38:38,291
+We can roll it over
+to offset your weight!
+
+1338
+01:38:38,364 --> 01:38:39,729
+Then roll it!
+
+1339
+01:38:43,036 --> 01:38:44,025
+Here it comes!
+
+1340
+01:38:52,879 --> 01:38:54,278
+Come on, Ben!
+
+1341
+01:38:57,150 --> 01:38:58,879
+Here! Give me your hand!
+
+1342
+01:39:01,287 --> 01:39:02,777
+Ben!
+
+1343
+01:39:03,990 --> 01:39:05,048
+Thanks, Riley.
+
+1344
+01:39:08,328 --> 01:39:10,193
+Why couldn't a girl see me do that?
+
+1345
+01:39:14,200 --> 01:39:18,000
+- You all right?
+- You're OK. You're OK. You're OK.
+
+1346
+01:39:20,306 --> 01:39:22,501
+So... forward.
+
+1347
+01:39:26,045 --> 01:39:29,208
+- What is this?
+
+1348
+01:39:29,282 --> 01:39:32,080
+Oh! Oh! Oh!
+
+1349
+01:39:33,653 --> 01:39:34,881
+Oh!
+
+1350
+01:39:39,626 --> 01:39:41,457
+Put your light over there.
+
+1351
+01:39:44,430 --> 01:39:45,897
+What are you doing?
+
+1352
+01:40:11,958 --> 01:40:14,426
+I can't see anything!
+Is this it?
+
+1353
+01:40:19,932 --> 01:40:20,921
+It's oil!
+
+1354
+01:41:00,039 --> 01:41:03,440
+It's a dead end!
+There's no way out!
+
+1355
+01:41:04,110 --> 01:41:05,577
+We have to turn back!
+
+1356
+01:41:15,188 --> 01:41:16,519
+OK.
+
+1357
+01:41:19,125 --> 01:41:22,117
+No. No, Patrick, this is crazy.
+
+1358
+01:41:24,997 --> 01:41:25,986
+OK.
+
+1359
+01:41:31,137 --> 01:41:32,365
+I got it!
+
+1360
+01:41:34,574 --> 01:41:37,134
+I got you! I got you!
+
+1361
+01:42:06,038 --> 01:42:07,596
+There's no forward!
+
+1362
+01:42:10,610 --> 01:42:12,805
+It's not forward, it's down!
+
+1363
+01:42:13,780 --> 01:42:18,308
+All this water has to go out somewhere.
+Otherwise, it'd be filled up.
+
+1364
+01:42:28,694 --> 01:42:30,685
+Help me turn this wheel!
+
+1365
+01:43:03,963 --> 01:43:05,828
+The water's going down.
+
+1366
+01:43:55,948 --> 01:43:57,643
+It is... Em.
+
+1367
+01:43:58,751 --> 01:44:00,742
+Em. Em.
+
+1368
+01:44:06,959 --> 01:44:08,790
+Ben! Hey!
+
+1369
+01:44:08,861 --> 01:44:13,161
+Dad! We found it!
+
+1370
+01:44:13,532 --> 01:44:17,093
+- Thomas was right!
+- No, you were right!
+
+1371
+01:44:22,475 --> 01:44:25,740
+Sorry I smeared your
+great-great granddaddy's good name.
+
+1372
+01:44:25,811 --> 01:44:28,371
+Seemed like the only way
+to get you in on the hunt.
+
+1373
+01:44:28,447 --> 01:44:33,214
+But this was a chance for the Wilkinson
+family to make its mark on history,
+
+1374
+01:44:33,286 --> 01:44:37,222
+to find the City of Gold,
+to be remembered.
+
+1375
+01:45:08,020 --> 01:45:11,353
+What happened to you?
+Your father was worried sick about you.
+
+1376
+01:45:11,424 --> 01:45:13,790
+She was frantic. She was frantic.
+
+1377
+01:45:14,794 --> 01:45:18,195
+Dad, coming through,
+did you happen to see...?
+
+1378
+01:45:18,264 --> 01:45:22,200
+Stop it. Coming through, did you see
+any branches that could lead out?
+
+1379
+01:45:22,268 --> 01:45:26,261
+No, it's all blocked. You can't even
+get back to the big, round stone door.
+
+1380
+01:45:26,772 --> 01:45:28,296
+Where's your mother going?
+
+1381
+01:45:31,043 --> 01:45:34,240
+Sweetheart. Sweetheart.
+Have a look at this.
+
+1382
+01:45:34,313 --> 01:45:35,405
+- What?
+- Look.
+
+1383
+01:45:35,481 --> 01:45:37,881
+This is gonna unlock
+the Olmec language.
+
+1384
+01:45:37,950 --> 01:45:41,579
+It's gonna give us incredible
+insight into pre-Columbian history.
+
+1385
+01:45:41,654 --> 01:45:43,485
+Oh!
+
+1386
+01:45:43,556 --> 01:45:45,319
+Em?
+
+1387
+01:45:45,391 --> 01:45:47,985
+- You happy?
+- Oh, yeah.
+
+1388
+01:45:48,961 --> 01:45:51,953
+- Ben! Look at this! Look!
+- Oh, yeah.
+
+1389
+01:45:52,498 --> 01:45:55,331
+That's where they slit the throat,
+cut the heart out.
+
+1390
+01:46:12,752 --> 01:46:15,744
+- What was that?
+- Listen.
+
+1391
+01:46:35,775 --> 01:46:37,538
+Ah!
+
+1392
+01:46:41,881 --> 01:46:45,544
+I tried to find a way out.
+All those portals are blocked off!
+
+1393
+01:46:45,618 --> 01:46:49,076
+I'm telling you, all this water
+goes out somewhere. We'll find it.
+
+1394
+01:46:56,595 --> 01:46:58,495
+Ben, there's a current!
+
+1395
+01:46:58,931 --> 01:47:01,991
+Follow it!
+There's got to be a central drain!
+
+1396
+01:47:02,068 --> 01:47:04,161
+It's under us. Right here!
+
+1397
+01:47:13,412 --> 01:47:14,401
+Come on!
+
+1398
+01:47:15,848 --> 01:47:17,839
+Let's go! Get in there!
+
+1399
+01:47:24,890 --> 01:47:26,983
+The water's rising too fast!
+
+1400
+01:47:27,059 --> 01:47:29,789
+Let's get that door open
+so we don't all drown!
+
+1401
+01:47:46,512 --> 01:47:49,675
+Ben, it slopes down!
+It's a drainage tunnel.
+
+1402
+01:47:50,249 --> 01:47:52,513
+It fills with water
+when you open the door!
+
+1403
+01:47:52,618 --> 01:47:55,746
+We need to find something
+to stick under it to keep it open!
+
+1404
+01:47:55,788 --> 01:47:58,814
+No, if it's open,
+this tunnel will stay flooded.
+
+1405
+01:47:58,891 --> 01:48:01,587
+We've got to get to the other side
+and close the door.
+
+1406
+01:48:01,660 --> 01:48:03,389
+Patrick, Emily, go!
+
+1407
+01:48:08,767 --> 01:48:09,825
+- No.
+- No!
+
+1408
+01:48:11,403 --> 01:48:12,392
+No!
+
+1409
+01:48:12,471 --> 01:48:15,235
+Mitch, we got to be
+on the other side of that door!
+
+1410
+01:48:15,774 --> 01:48:17,571
+Nobody leaves unless I say so.
+
+1411
+01:48:19,044 --> 01:48:21,638
+That door is not gonna stay open
+by itself.
+
+1412
+01:48:21,714 --> 01:48:23,944
+We both know what has to happen here.
+
+1413
+01:48:24,450 --> 01:48:27,851
+One of us keeps the door open
+and stays behind.
+
+1414
+01:48:29,822 --> 01:48:30,914
+I vote Mitch.
+
+1415
+01:48:31,991 --> 01:48:33,925
+This isn't a democracy.
+
+1416
+01:48:38,564 --> 01:48:42,523
+Stop! I'll stay!
+I'm staying. Look. Look!
+
+1417
+01:48:43,469 --> 01:48:45,960
+See? I'm right here! I'm staying!
+
+1418
+01:48:46,038 --> 01:48:48,768
+I'll tell everybody
+how this is going to go.
+
+1419
+01:48:48,841 --> 01:48:53,107
+You and me are going to open that door.
+Anybody tries to leave before me,
+
+1420
+01:48:53,212 --> 01:48:55,612
+I drop the door,
+we start this all over again!
+
+1421
+01:48:55,648 --> 01:48:59,550
+Try any funny business, I guarantee you
+people are going to get hurt!
+
+1422
+01:49:01,453 --> 01:49:04,945
+I won't! You have my word.
+Just let her go.
+
+1423
+01:49:08,994 --> 01:49:11,622
+Ben, no, we're not leaving without you.
+
+1424
+01:49:13,599 --> 01:49:14,588
+Abigail.
+
+1425
+01:49:18,704 --> 01:49:22,435
+You make my parents leave.
+You make my parents leave.
+
+1426
+01:49:31,784 --> 01:49:33,046
+- No!
+- Let's go!
+
+1427
+01:49:33,552 --> 01:49:37,511
+Let's go, please! Patrick, Emily,
+he's trying to save our lives.
+
+1428
+01:49:38,257 --> 01:49:39,884
+Please, come on.
+
+1429
+01:49:41,860 --> 01:49:43,054
+Push, Ben!
+
+1430
+01:49:46,732 --> 01:49:48,666
+The current's too strong!
+
+1431
+01:49:51,904 --> 01:49:54,099
+- I'm ready!
+- It's all yours!
+
+1432
+01:50:10,089 --> 01:50:11,078
+Ah!
+
+1433
+01:50:17,162 --> 01:50:18,322
+Mom!
+
+1434
+01:50:18,897 --> 01:50:21,127
+- Hang on!
+
+1435
+01:50:23,969 --> 01:50:25,231
+Hold your breath!
+
+1436
+01:50:35,014 --> 01:50:36,845
+Ah!
+
+1437
+01:50:36,915 --> 01:50:38,644
+We got to get Ben out of there!
+
+1438
+01:50:41,687 --> 01:50:45,987
+If I'm stuck in the door,
+it stays open,
+
+1439
+01:50:46,058 --> 01:50:48,993
+both rooms fill up, and we all drown!
+
+1440
+01:50:49,061 --> 01:50:53,191
+- Open the door! I'll get you out!
+- The current's too strong!
+
+1441
+01:50:53,299 --> 01:50:55,824
+I open the door,
+you'll be washed down!
+
+1442
+01:50:55,868 --> 01:50:57,233
+I'll get you out!
+
+1443
+01:50:57,303 --> 01:51:01,672
+I found the City of Gold! I found it!
+
+1444
+01:51:01,740 --> 01:51:03,731
+And no one will ever know?
+
+1445
+01:51:03,809 --> 01:51:08,041
+We can figure this out!
+We can all get out!
+
+1446
+01:51:08,113 --> 01:51:11,674
+It's not a puzzle!
+No more puzzles, Ben!
+
+1447
+01:51:11,750 --> 01:51:14,913
+We're all going to die,
+or it could just be me!
+
+1448
+01:51:15,754 --> 01:51:19,212
+- Tell them I found it!
+- Don't quit!
+
+1449
+01:51:20,726 --> 01:51:22,853
+- Mitch!
+
+1450
+01:51:32,004 --> 01:51:33,062
+Ah!
+
+1451
+01:52:03,335 --> 01:52:04,461
+Thank you.
+
+1452
+01:52:21,987 --> 01:52:25,946
+- We haven't officially met. I'm Riley.
+Oh, hi.
+
+1453
+01:52:32,197 --> 01:52:34,757
+Sir! It's for you.
+
+1454
+01:52:36,068 --> 01:52:37,057
+Sadusky.
+
+1455
+01:52:38,003 --> 01:52:40,801
+- I have my proof.
+- Ben!
+
+1456
+01:52:41,206 --> 01:52:45,074
+We were just talking about you.
+Ready to turn yourself in?
+
+1457
+01:52:45,144 --> 01:52:48,807
+Not quite.
+We found the City of Gold.
+
+1458
+01:52:48,881 --> 01:52:51,679
+Doesn't matter.
+You still committed a federal crime.
+
+1459
+01:53:12,171 --> 01:53:14,765
+Stop. Stop it.
+
+1460
+01:53:15,874 --> 01:53:18,206
+- Mr. President?
+- Craig, give us a minute.
+
+1461
+01:53:18,277 --> 01:53:22,043
+Sir, for your information,
+this is the man who kidnapped you.
+
+1462
+01:53:22,114 --> 01:53:24,878
+As I recall, we were
+exploring a hidden tunnel,
+
+1463
+01:53:24,950 --> 01:53:28,511
+and a door closed accidentally,
+and this man saved my life.
+
+1464
+01:53:28,854 --> 01:53:30,048
+Yes, sir.
+
+1465
+01:53:32,257 --> 01:53:34,020
+- Gates.
+- Sir.
+
+1466
+01:53:35,093 --> 01:53:39,655
+For the record, after centuries
+of exploration, on this day,
+
+1467
+01:53:39,731 --> 01:53:43,258
+you have brought honor
+to your country and your family.
+
+1468
+01:53:44,803 --> 01:53:47,738
+You've done this country
+a great service. I thank you.
+
+1469
+01:53:48,273 --> 01:53:50,935
+- Thank you.
+- Craig.
+
+1470
+01:53:52,277 --> 01:53:56,543
+I thought you might want to
+take a look at tomorrow's headlines.
+
+1471
+01:53:58,116 --> 01:53:59,105
+Tomorrow?
+
+1472
+01:54:07,326 --> 01:54:08,588
+Thank you, sir.
+
+1473
+01:54:09,561 --> 01:54:12,029
+All of you, along with
+Emily and Patrick Gates
+
+1474
+01:54:12,097 --> 01:54:14,190
+will get credit for this discovery.
+
+1475
+01:54:21,340 --> 01:54:23,706
+And Mitch Wilkinson, sir.
+
+1476
+01:54:24,610 --> 01:54:28,444
+- Is that right?
+- It's true, sir.
+
+1477
+01:54:30,048 --> 01:54:33,040
+Ben, I am curious
+about that favor I asked you.
+
+1478
+01:54:34,586 --> 01:54:37,020
+Any report regarding
+what's on page 47?
+
+1479
+01:54:37,089 --> 01:54:39,284
+I believe I can help with that, sir.
+
+1480
+01:54:39,358 --> 01:54:42,555
+- So it's good.
+- Life-altering, sir.
+
+1481
+01:54:46,231 --> 01:54:49,860
+What's on page 47?
+Are you talking about the Book?
+
+1482
+01:54:53,105 --> 01:54:54,231
+What book?
+
+1483
+01:54:55,807 --> 01:54:59,868
+Be very careful with that.
+Is that distilled water you're using?
+
+1484
+01:54:59,945 --> 01:55:02,209
+- Yes.
+- Have you catalogued all of this?
+
+1485
+01:55:02,281 --> 01:55:03,646
+- No, ma'am.
+- You haven't?
+
+1486
+01:55:03,715 --> 01:55:06,775
+Excuse me? Excuse me, sir?
+Are you cataloguing this?
+
+1487
+01:55:06,852 --> 01:55:10,151
+You should've been there
+when we picked out our first couch.
+
+1488
+01:55:14,126 --> 01:55:15,559
+Excuse me.
+
+1489
+01:55:15,627 --> 01:55:19,529
+Hey, you're that guy...
+The treasure hunter guy, right?
+
+1490
+01:55:19,598 --> 01:55:23,432
+No, actually, the guy you're thinking of
+is somewhere over there.
+
+1491
+01:55:23,502 --> 01:55:27,939
+No. You're him. Riley Poole.
+I recognize you from your book.
+
+1492
+01:55:28,607 --> 01:55:30,598
+- Will you sign it?
+
+1493
+01:55:30,676 --> 01:55:31,665
+OK.
+
+1494
+01:55:40,919 --> 01:55:41,908
+Thank you.
+
+1495
+01:55:43,255 --> 01:55:46,486
+So, um, the tea tables...
+
+1496
+01:55:47,492 --> 01:55:51,223
+Yes, I'm going to have the movers
+bring them to you next week.
+
+1497
+01:55:52,197 --> 01:55:54,131
+I was going to say
+you can keep them.
+
+1498
+01:55:55,000 --> 01:55:59,130
+And maybe you could...
+
+1499
+01:55:59,204 --> 01:56:01,502
+...come and move back in with me.
+
+1500
+01:56:02,674 --> 01:56:05,472
+- No. You used the word "so"
+- So?
+
+1501
+01:56:05,544 --> 01:56:07,978
+So, when you say "so"
+it means you're angry.
+
+1502
+01:56:08,046 --> 01:56:12,005
+Sometimes.
+And then sometimes it doesn't.
+
+1503
+01:56:12,084 --> 01:56:14,416
+It's sort of like a puzzle.
+
+1504
+01:56:15,954 --> 01:56:19,617
+And you're so good at puzzles.
+I'm sure you'll figure it out.
+
+1505
+01:56:22,160 --> 01:56:23,354
+So...
+
+1506
+01:57:10,142 --> 01:57:11,769
+I love this car.
+
